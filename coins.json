@@ -1,0 +1,6724 @@
+{
+  "coins": [
+    {
+      "id": 38557,
+      "rank": 950,
+      "symbol": "4",
+      "name": "4",
+      "slug": "4four",
+      "logo": "img/coins/38557.png"
+    },
+    {
+      "id": 1,
+      "rank": 1,
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "slug": "bitcoin",
+      "logo": "img/coins/1.png"
+    },
+    {
+      "id": 1027,
+      "rank": 2,
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "slug": "ethereum",
+      "logo": "img/coins/1027.png"
+    },
+    {
+      "id": 1831,
+      "rank": 19,
+      "symbol": "BCH",
+      "name": "Bitcoin Cash",
+      "slug": "bitcoin-cash",
+      "logo": "img/coins/1831.png"
+    },
+    {
+      "id": 52,
+      "rank": 6,
+      "symbol": "XRP",
+      "name": "XRP",
+      "slug": "xrp",
+      "logo": "img/coins/52.png"
+    },
+    {
+      "id": 2,
+      "rank": 21,
+      "symbol": "LTC",
+      "name": "Litecoin",
+      "slug": "litecoin",
+      "logo": "img/coins/2.png"
+    },
+    {
+      "id": 1958,
+      "rank": 8,
+      "symbol": "TRX",
+      "name": "TRON",
+      "slug": "tron",
+      "logo": "img/coins/1958.png"
+    },
+    {
+      "id": 1321,
+      "rank": 57,
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
+      "slug": "ethereum-classic",
+      "logo": "img/coins/1321.png"
+    },
+    {
+      "id": 1975,
+      "rank": 14,
+      "symbol": "LINK",
+      "name": "Chainlink",
+      "slug": "chainlink",
+      "logo": "img/coins/1975.png"
+    },
+    {
+      "id": 512,
+      "rank": 17,
+      "symbol": "XLM",
+      "name": "Stellar",
+      "slug": "stellar",
+      "logo": "img/coins/512.png"
+    },
+    {
+      "id": 2010,
+      "rank": 15,
+      "symbol": "ADA",
+      "name": "Cardano",
+      "slug": "cardano",
+      "logo": "img/coins/2010.png"
+    },
+    {
+      "id": 328,
+      "rank": 13,
+      "symbol": "XMR",
+      "name": "Monero",
+      "slug": "monero",
+      "logo": "img/coins/328.png"
+    },
+    {
+      "id": 131,
+      "rank": 78,
+      "symbol": "DASH",
+      "name": "Dash",
+      "slug": "dash",
+      "logo": "img/coins/131.png"
+    },
+    {
+      "id": 1437,
+      "rank": 10,
+      "symbol": "ZEC",
+      "name": "Zcash",
+      "slug": "zcash",
+      "logo": "img/coins/1437.png"
+    },
+    {
+      "id": 2011,
+      "rank": 104,
+      "symbol": "XTZ",
+      "name": "Tezos",
+      "slug": "tezos",
+      "logo": "img/coins/2011.png"
+    },
+    {
+      "id": 1839,
+      "rank": 4,
+      "symbol": "BNB",
+      "name": "BNB",
+      "slug": "bnb",
+      "logo": "img/coins/1839.png"
+    },
+    {
+      "id": 3794,
+      "rank": 69,
+      "symbol": "ATOM",
+      "name": "Cosmos",
+      "slug": "cosmos",
+      "logo": "img/coins/3794.png"
+    },
+    {
+      "id": 2566,
+      "rank": 396,
+      "symbol": "ONT",
+      "name": "Ontology",
+      "slug": "ontology",
+      "logo": "img/coins/2566.png"
+    },
+    {
+      "id": 1720,
+      "rank": 129,
+      "symbol": "IOTA",
+      "name": "IOTA",
+      "slug": "iota",
+      "logo": "img/coins/1720.png"
+    },
+    {
+      "id": 1697,
+      "rank": 152,
+      "symbol": "BAT",
+      "name": "Basic Attention Token",
+      "slug": "basic-attention-token",
+      "logo": "img/coins/1697.png"
+    },
+    {
+      "id": 3077,
+      "rank": 85,
+      "symbol": "VET",
+      "name": "VeChain",
+      "slug": "vechain",
+      "logo": "img/coins/3077.png"
+    },
+    {
+      "id": 1376,
+      "rank": 155,
+      "symbol": "NEO",
+      "name": "Neo",
+      "slug": "neo",
+      "logo": "img/coins/1376.png"
+    },
+    {
+      "id": 1684,
+      "rank": 191,
+      "symbol": "QTUM",
+      "name": "Qtum",
+      "slug": "qtum",
+      "logo": "img/coins/1684.png"
+    },
+    {
+      "id": 2405,
+      "rank": 547,
+      "symbol": "IOST",
+      "name": "IOST",
+      "slug": "iostoken",
+      "logo": "img/coins/2405.png"
+    },
+    {
+      "id": 2416,
+      "rank": 140,
+      "symbol": "THETA",
+      "name": "Theta Network",
+      "slug": "theta-network",
+      "logo": "img/coins/2416.png"
+    },
+    {
+      "id": 4030,
+      "rank": 67,
+      "symbol": "ALGO",
+      "name": "Algorand",
+      "slug": "algorand",
+      "logo": "img/coins/4030.png"
+    },
+    {
+      "id": 2469,
+      "rank": 631,
+      "symbol": "ZIL",
+      "name": "Zilliqa",
+      "slug": "zilliqa",
+      "logo": "img/coins/2469.png"
+    },
+    {
+      "id": 9444,
+      "rank": 596,
+      "symbol": "KNC",
+      "name": "Kyber Network Crystal v2",
+      "slug": "kyber-network-crystal-v2",
+      "logo": "img/coins/9444.png"
+    },
+    {
+      "id": 1896,
+      "rank": 189,
+      "symbol": "ZRX",
+      "name": "0x Protocol",
+      "slug": "0x",
+      "logo": "img/coins/1896.png"
+    },
+    {
+      "id": 5692,
+      "rank": 120,
+      "symbol": "COMP",
+      "name": "Compound",
+      "slug": "compound",
+      "logo": "img/coins/5692.png"
+    },
+    {
+      "id": 74,
+      "rank": 11,
+      "symbol": "DOGE",
+      "name": "Dogecoin",
+      "slug": "dogecoin",
+      "logo": "img/coins/74.png"
+    },
+    {
+      "id": 4846,
+      "rank": 440,
+      "symbol": "KAVA",
+      "name": "Kava",
+      "slug": "kava",
+      "logo": "img/coins/4846.png"
+    },
+    {
+      "id": 4679,
+      "rank": 449,
+      "symbol": "BAND",
+      "name": "Band",
+      "slug": "band-protocol",
+      "logo": "img/coins/4679.png"
+    },
+    {
+      "id": 1637,
+      "rank": 487,
+      "symbol": "RLC",
+      "name": "iExec RLC",
+      "slug": "rlc",
+      "logo": "img/coins/1637.png"
+    },
+    {
+      "id": 2586,
+      "rank": 322,
+      "symbol": "SNX",
+      "name": "Synthetix",
+      "slug": "synthetix",
+      "logo": "img/coins/2586.png"
+    },
+    {
+      "id": 6636,
+      "rank": 53,
+      "symbol": "DOT",
+      "name": "Polkadot",
+      "slug": "polkadot-new",
+      "logo": "img/coins/6636.png"
+    },
+    {
+      "id": 5864,
+      "rank": 298,
+      "symbol": "YFI",
+      "name": "Yearn",
+      "slug": "yearn-finance",
+      "logo": "img/coins/5864.png"
+    },
+    {
+      "id": 6538,
+      "rank": 101,
+      "symbol": "CRV",
+      "name": "Curve DAO Token",
+      "slug": "curve-dao-token",
+      "logo": "img/coins/6538.png"
+    },
+    {
+      "id": 4944,
+      "rank": 383,
+      "symbol": "TRB",
+      "name": "Tellor",
+      "slug": "tellor",
+      "logo": "img/coins/4944.png"
+    },
+    {
+      "id": 4157,
+      "rank": 114,
+      "symbol": "RUNE",
+      "name": "THORChain",
+      "slug": "thorchain",
+      "logo": "img/coins/4157.png"
+    },
+    {
+      "id": 6758,
+      "rank": 354,
+      "symbol": "SUSHI",
+      "name": "SushiSwap",
+      "slug": "sushiswap",
+      "logo": "img/coins/6758.png"
+    },
+    {
+      "id": 6892,
+      "rank": 184,
+      "symbol": "EGLD",
+      "name": "MultiversX",
+      "slug": "multiversx-egld",
+      "logo": "img/coins/6892.png"
+    },
+    {
+      "id": 5426,
+      "rank": 7,
+      "symbol": "SOL",
+      "name": "Solana",
+      "slug": "solana",
+      "logo": "img/coins/5426.png"
+    },
+    {
+      "id": 7083,
+      "rank": 23,
+      "symbol": "UNI",
+      "name": "Uniswap",
+      "slug": "uniswap",
+      "logo": "img/coins/7083.png"
+    },
+    {
+      "id": 5805,
+      "rank": 24,
+      "symbol": "AVAX",
+      "name": "Avalanche",
+      "slug": "avalanche",
+      "logo": "img/coins/5805.png"
+    },
+    {
+      "id": 2130,
+      "rank": 378,
+      "symbol": "ENJ",
+      "name": "Enjin Coin",
+      "slug": "enjin-coin",
+      "logo": "img/coins/2130.png"
+    },
+    {
+      "id": 5034,
+      "rank": 324,
+      "symbol": "KSM",
+      "name": "Kusama",
+      "slug": "kusama",
+      "logo": "img/coins/5034.png"
+    },
+    {
+      "id": 6535,
+      "rank": 20,
+      "symbol": "NEAR",
+      "name": "NEAR Protocol",
+      "slug": "near-protocol",
+      "logo": "img/coins/6535.png"
+    },
+    {
+      "id": 7278,
+      "rank": 42,
+      "symbol": "AAVE",
+      "name": "Aave",
+      "slug": "aave",
+      "logo": "img/coins/7278.png"
+    },
+    {
+      "id": 2280,
+      "rank": 82,
+      "symbol": "FIL",
+      "name": "Filecoin",
+      "slug": "filecoin",
+      "logo": "img/coins/2280.png"
+    },
+    {
+      "id": 3964,
+      "rank": 175,
+      "symbol": "RSR",
+      "name": "Reserve Rights",
+      "slug": "reserve-rights",
+      "logo": "img/coins/3964.png"
+    },
+    {
+      "id": 6928,
+      "rank": 1019,
+      "symbol": "BEL",
+      "name": "Bella Protocol",
+      "slug": "bella-protocol",
+      "logo": "img/coins/6928.png"
+    },
+    {
+      "id": 6783,
+      "rank": 151,
+      "symbol": "AXS",
+      "name": "Axie Infinity",
+      "slug": "axie-infinity",
+      "logo": "img/coins/6783.png"
+    },
+    {
+      "id": 1698,
+      "rank": 188,
+      "symbol": "ZEN",
+      "name": "Horizen",
+      "slug": "horizen",
+      "logo": "img/coins/1698.png"
+    },
+    {
+      "id": 5691,
+      "rank": 638,
+      "symbol": "SKL",
+      "name": "SKALE",
+      "slug": "skale-network",
+      "logo": "img/coins/5691.png"
+    },
+    {
+      "id": 6719,
+      "rank": 119,
+      "symbol": "GRT",
+      "name": "The Graph",
+      "slug": "the-graph",
+      "logo": "img/coins/6719.png"
+    },
+    {
+      "id": 8104,
+      "rank": 173,
+      "symbol": "1INCH",
+      "name": "1inch",
+      "slug": "1inch",
+      "logo": "img/coins/8104.png"
+    },
+    {
+      "id": 4066,
+      "rank": 161,
+      "symbol": "CHZ",
+      "name": "Chiliz",
+      "slug": "chiliz",
+      "logo": "img/coins/4066.png"
+    },
+    {
+      "id": 6210,
+      "rank": 158,
+      "symbol": "SAND",
+      "name": "The Sandbox",
+      "slug": "the-sandbox",
+      "logo": "img/coins/6210.png"
+    },
+    {
+      "id": 3783,
+      "rank": 429,
+      "symbol": "ANKR",
+      "name": "Ankr",
+      "slug": "ankr",
+      "logo": "img/coins/3783.png"
+    },
+    {
+      "id": 2577,
+      "rank": 732,
+      "symbol": "RVN",
+      "name": "Ravencoin",
+      "slug": "ravencoin",
+      "logo": "img/coins/2577.png"
+    },
+    {
+      "id": 8119,
+      "rank": 169,
+      "symbol": "SFP",
+      "name": "SafePal",
+      "slug": "safepal",
+      "logo": "img/coins/8119.png"
+    },
+    {
+      "id": 3992,
+      "rank": 505,
+      "symbol": "COTI",
+      "name": "COTI",
+      "slug": "coti",
+      "logo": "img/coins/3992.png"
+    },
+    {
+      "id": 3978,
+      "rank": 754,
+      "symbol": "CHR",
+      "name": "Chromia",
+      "slug": "chromia",
+      "logo": "img/coins/3978.png"
+    },
+    {
+      "id": 1966,
+      "rank": 149,
+      "symbol": "MANA",
+      "name": "Decentraland",
+      "slug": "decentraland",
+      "logo": "img/coins/1966.png"
+    },
+    {
+      "id": 8766,
+      "rank": 848,
+      "symbol": "ALICE",
+      "name": "MyNeighborAlice",
+      "slug": "myneighboralice",
+      "logo": "img/coins/8766.png"
+    },
+    {
+      "id": 4642,
+      "rank": 31,
+      "symbol": "HBAR",
+      "name": "Hedera",
+      "slug": "hedera",
+      "logo": "img/coins/4642.png"
+    },
+    {
+      "id": 37166,
+      "rank": 276,
+      "symbol": "ONE",
+      "name": "ONEchain",
+      "slug": "cross",
+      "logo": "img/coins/37166.png"
+    },
+    {
+      "id": 3814,
+      "rank": 711,
+      "symbol": "CELR",
+      "name": "Celer Network",
+      "slug": "celer-network",
+      "logo": "img/coins/3814.png"
+    },
+    {
+      "id": 2682,
+      "rank": 299,
+      "symbol": "HOT",
+      "name": "Holo",
+      "slug": "holo",
+      "logo": "img/coins/2682.png"
+    },
+    {
+      "id": 1788,
+      "rank": 592,
+      "symbol": "MTL",
+      "name": "Metal DAO",
+      "slug": "metal",
+      "logo": "img/coins/1788.png"
+    },
+    {
+      "id": 5117,
+      "rank": 725,
+      "symbol": "OGN",
+      "name": "Origin Protocol",
+      "slug": "origin-protocol",
+      "logo": "img/coins/5117.png"
+    },
+    {
+      "id": 5994,
+      "rank": 34,
+      "symbol": "SHIB",
+      "name": "Shiba Inu",
+      "slug": "shiba-inu",
+      "logo": "img/coins/5994.png"
+    },
+    {
+      "id": 10052,
+      "rank": 828,
+      "symbol": "GTC",
+      "name": "Gitcoin",
+      "slug": "gitcoin",
+      "logo": "img/coins/10052.png"
+    },
+    {
+      "id": 10634,
+      "rank": 5484,
+      "symbol": "BTCDOM",
+      "name": "Binance BTCDOM Index",
+      "slug": "binance-btcdom-index",
+      "logo": "img/coins/10634.png"
+    },
+    {
+      "id": 2777,
+      "rank": 555,
+      "symbol": "IOTX",
+      "name": "IoTeX",
+      "slug": "iotex",
+      "logo": "img/coins/2777.png"
+    },
+    {
+      "id": 10903,
+      "rank": 909,
+      "symbol": "C98",
+      "name": "Coin98",
+      "slug": "coin98",
+      "logo": "img/coins/10903.png"
+    },
+    {
+      "id": 8536,
+      "rank": 470,
+      "symbol": "MASK",
+      "name": "Mask Network",
+      "slug": "mask-network",
+      "logo": "img/coins/8536.png"
+    },
+    {
+      "id": 28324,
+      "rank": 296,
+      "symbol": "DYDX",
+      "name": "dYdX",
+      "slug": "dydx-chain",
+      "logo": "img/coins/28324.png"
+    },
+    {
+      "id": 10791,
+      "rank": 157,
+      "symbol": "XEC",
+      "name": "eCash",
+      "slug": "ecash",
+      "logo": "img/coins/10791.png"
+    },
+    {
+      "id": 7080,
+      "rank": 180,
+      "symbol": "GALA",
+      "name": "Gala",
+      "slug": "gala",
+      "logo": "img/coins/7080.png"
+    },
+    {
+      "id": 5567,
+      "rank": 388,
+      "symbol": "CELO",
+      "name": "Celo",
+      "slug": "celo",
+      "logo": "img/coins/5567.png"
+    },
+    {
+      "id": 5632,
+      "rank": 132,
+      "symbol": "AR",
+      "name": "Arweave",
+      "slug": "arweave",
+      "logo": "img/coins/5632.png"
+    },
+    {
+      "id": 4039,
+      "rank": 768,
+      "symbol": "ARPA",
+      "name": "ARPA",
+      "slug": "arpa-chain",
+      "logo": "img/coins/4039.png"
+    },
+    {
+      "id": 5444,
+      "rank": 607,
+      "symbol": "CTSI",
+      "name": "Cartesi",
+      "slug": "cartesi",
+      "logo": "img/coins/5444.png"
+    },
+    {
+      "id": 3640,
+      "rank": 192,
+      "symbol": "LPT",
+      "name": "Livepeer",
+      "slug": "livepeer",
+      "logo": "img/coins/3640.png"
+    },
+    {
+      "id": 13855,
+      "rank": 135,
+      "symbol": "ENS",
+      "name": "Ethereum Name Service",
+      "slug": "ethereum-name-service",
+      "logo": "img/coins/13855.png"
+    },
+    {
+      "id": 14806,
+      "rank": 511,
+      "symbol": "PEOPLE",
+      "name": "ConstitutionDAO",
+      "slug": "constitutiondao",
+      "logo": "img/coins/14806.png"
+    },
+    {
+      "id": 7653,
+      "rank": 391,
+      "symbol": "ROSE",
+      "name": "Oasis",
+      "slug": "oasis-network",
+      "logo": "img/coins/7653.png"
+    },
+    {
+      "id": 4092,
+      "rank": 377,
+      "symbol": "DUSK",
+      "name": "Dusk",
+      "slug": "dusk",
+      "logo": "img/coins/4092.png"
+    },
+    {
+      "id": 4558,
+      "rank": 515,
+      "symbol": "FLOW",
+      "name": "Flow",
+      "slug": "flow",
+      "logo": "img/coins/4558.png"
+    },
+    {
+      "id": 10603,
+      "rank": 116,
+      "symbol": "IMX",
+      "name": "Immutable",
+      "slug": "immutable-x",
+      "logo": "img/coins/10603.png"
+    },
+    {
+      "id": 7737,
+      "rank": 682,
+      "symbol": "API3",
+      "name": "Api3",
+      "slug": "api3",
+      "logo": "img/coins/7737.png"
+    },
+    {
+      "id": 18069,
+      "rank": 673,
+      "symbol": "GMT",
+      "name": "GMT",
+      "slug": "green-metaverse-token",
+      "logo": "img/coins/18069.png"
+    },
+    {
+      "id": 18876,
+      "rank": 183,
+      "symbol": "APE",
+      "name": "ApeCoin",
+      "slug": "apecoin-ape",
+      "logo": "img/coins/18876.png"
+    },
+    {
+      "id": 7501,
+      "rank": 662,
+      "symbol": "WOO",
+      "name": "WOO",
+      "slug": "wootrade",
+      "logo": "img/coins/7501.png"
+    },
+    {
+      "id": 8425,
+      "rank": 130,
+      "symbol": "JASMY",
+      "name": "JasmyCoin",
+      "slug": "jasmy",
+      "logo": "img/coins/8425.png"
+    },
+    {
+      "id": 11840,
+      "rank": 127,
+      "symbol": "OP",
+      "name": "Optimism",
+      "slug": "optimism-ethereum",
+      "logo": "img/coins/11840.png"
+    },
+    {
+      "id": 7226,
+      "rank": 72,
+      "symbol": "INJ",
+      "name": "Injective",
+      "slug": "injective",
+      "logo": "img/coins/7226.png"
+    },
+    {
+      "id": 11289,
+      "rank": 793,
+      "symbol": "SPELL",
+      "name": "Spell Token",
+      "slug": "spell-token",
+      "logo": "img/coins/11289.png"
+    },
+    {
+      "id": 4172,
+      "rank": 105,
+      "symbol": "LUNC",
+      "name": "Terra Classic",
+      "slug": "terra-luna",
+      "logo": "img/coins/4172.png"
+    },
+    {
+      "id": 20314,
+      "rank": 548,
+      "symbol": "LUNA",
+      "name": "Terra",
+      "slug": "terra-luna-v2",
+      "logo": "img/coins/20314.png"
+    },
+    {
+      "id": 8000,
+      "rank": 113,
+      "symbol": "LDO",
+      "name": "Lido DAO",
+      "slug": "lido-dao",
+      "logo": "img/coins/8000.png"
+    },
+    {
+      "id": 8916,
+      "rank": 54,
+      "symbol": "ICP",
+      "name": "Internet Computer",
+      "slug": "internet-computer",
+      "logo": "img/coins/8916.png"
+    },
+    {
+      "id": 21794,
+      "rank": 91,
+      "symbol": "APT",
+      "name": "Aptos",
+      "slug": "aptos",
+      "logo": "img/coins/21794.png"
+    },
+    {
+      "id": 3155,
+      "rank": 38,
+      "symbol": "QNT",
+      "name": "Quant",
+      "slug": "quant",
+      "logo": "img/coins/3155.png"
+    },
+    {
+      "id": 3773,
+      "rank": 94,
+      "symbol": "FET",
+      "name": "Artificial Superintelligence Alliance",
+      "slug": "artificial-superintelligence-alliance",
+      "logo": "img/coins/3773.png"
+    },
+    {
+      "id": 14783,
+      "rank": 535,
+      "symbol": "MAGIC",
+      "name": "Treasure",
+      "slug": "magic-token",
+      "logo": "img/coins/14783.png"
+    },
+    {
+      "id": 17751,
+      "rank": 347,
+      "symbol": "T",
+      "name": "Threshold",
+      "slug": "threshold",
+      "logo": "img/coins/17751.png"
+    },
+    {
+      "id": 8646,
+      "rank": 313,
+      "symbol": "MINA",
+      "name": "Mina",
+      "slug": "mina",
+      "logo": "img/coins/8646.png"
+    },
+    {
+      "id": 12885,
+      "rank": 369,
+      "symbol": "ASTR",
+      "name": "Astar",
+      "slug": "astar",
+      "logo": "img/coins/12885.png"
+    },
+    {
+      "id": 11857,
+      "rank": 165,
+      "symbol": "GMX",
+      "name": "GMX",
+      "slug": "gmx",
+      "logo": "img/coins/11857.png"
+    },
+    {
+      "id": 7334,
+      "rank": 124,
+      "symbol": "CFX",
+      "name": "Conflux",
+      "slug": "conflux-network",
+      "logo": "img/coins/7334.png"
+    },
+    {
+      "id": 4847,
+      "rank": 76,
+      "symbol": "STX",
+      "name": "Stacks",
+      "slug": "stacks",
+      "logo": "img/coins/4847.png"
+    },
+    {
+      "id": 6958,
+      "rank": 382,
+      "symbol": "ACH",
+      "name": "Alchemy Pay",
+      "slug": "alchemy-pay",
+      "logo": "img/coins/6958.png"
+    },
+    {
+      "id": 12999,
+      "rank": 339,
+      "symbol": "SSV",
+      "name": "ssv.network",
+      "slug": "ssv-network",
+      "logo": "img/coins/12999.png"
+    },
+    {
+      "id": 4948,
+      "rank": 366,
+      "symbol": "CKB",
+      "name": "Nervos Network",
+      "slug": "nervos-network",
+      "logo": "img/coins/4948.png"
+    },
+    {
+      "id": 7429,
+      "rank": 753,
+      "symbol": "LQTY",
+      "name": "Liquity",
+      "slug": "liquity",
+      "logo": "img/coins/7429.png"
+    },
+    {
+      "id": 3408,
+      "rank": 5,
+      "symbol": "USDC",
+      "name": "USDC",
+      "slug": "usd-coin",
+      "logo": "img/coins/3408.png"
+    },
+    {
+      "id": 21846,
+      "rank": 416,
+      "symbol": "ID",
+      "name": "SPACE ID",
+      "slug": "space-id",
+      "logo": "img/coins/21846.png"
+    },
+    {
+      "id": 11841,
+      "rank": 64,
+      "symbol": "ARB",
+      "name": "Arbitrum",
+      "slug": "arbitrum",
+      "logo": "img/coins/11841.png"
+    },
+    {
+      "id": 11396,
+      "rank": 887,
+      "symbol": "JOE",
+      "name": "JOE",
+      "slug": "joe",
+      "logo": "img/coins/11396.png"
+    },
+    {
+      "id": 9119,
+      "rank": 1012,
+      "symbol": "TLM",
+      "name": "Alien Worlds",
+      "slug": "alien-worlds",
+      "logo": "img/coins/9119.png"
+    },
+    {
+      "id": 7288,
+      "rank": 381,
+      "symbol": "XVS",
+      "name": "Venus",
+      "slug": "venus",
+      "logo": "img/coins/7288.png"
+    },
+    {
+      "id": 23121,
+      "rank": 626,
+      "symbol": "BLUR",
+      "name": "Blur",
+      "slug": "blur-token",
+      "logo": "img/coins/23121.png"
+    },
+    {
+      "id": 24613,
+      "rank": 358,
+      "symbol": "EDU",
+      "name": "Open Campus",
+      "slug": "open-campus",
+      "logo": "img/coins/24613.png"
+    },
+    {
+      "id": 20947,
+      "rank": 27,
+      "symbol": "SUI",
+      "name": "Sui",
+      "slug": "sui",
+      "logo": "img/coins/20947.png"
+    },
+    {
+      "id": 24478,
+      "rank": 43,
+      "symbol": "PEPE",
+      "name": "Pepe",
+      "slug": "pepe",
+      "logo": "img/coins/24478.png"
+    },
+    {
+      "id": 10804,
+      "rank": 128,
+      "symbol": "FLOKI",
+      "name": "FLOKI",
+      "slug": "floki-inu",
+      "logo": "img/coins/10804.png"
+    },
+    {
+      "id": 5617,
+      "rank": 564,
+      "symbol": "UMA",
+      "name": "UMA",
+      "slug": "uma",
+      "logo": "img/coins/5617.png"
+    },
+    {
+      "id": 1732,
+      "rank": 306,
+      "symbol": "NMR",
+      "name": "Numeraire",
+      "slug": "numeraire",
+      "logo": "img/coins/1732.png"
+    },
+    {
+      "id": 18037,
+      "rank": 934,
+      "symbol": "MAV",
+      "name": "Maverick Protocol",
+      "slug": "maverick-protocol",
+      "logo": "img/coins/18037.png"
+    },
+    {
+      "id": 693,
+      "rank": 517,
+      "symbol": "XVG",
+      "name": "Verge",
+      "slug": "verge",
+      "logo": "img/coins/693.png"
+    },
+    {
+      "id": 13502,
+      "rank": 58,
+      "symbol": "WLD",
+      "name": "Worldcoin",
+      "slug": "worldcoin-org",
+      "logo": "img/coins/13502.png"
+    },
+    {
+      "id": 9481,
+      "rank": 111,
+      "symbol": "PENDLE",
+      "name": "Pendle",
+      "slug": "pendle",
+      "logo": "img/coins/9481.png"
+    },
+    {
+      "id": 27565,
+      "rank": 683,
+      "symbol": "ARKM",
+      "name": "Arkham",
+      "slug": "arkham",
+      "logo": "img/coins/27565.png"
+    },
+    {
+      "id": 11568,
+      "rank": 761,
+      "symbol": "AGLD",
+      "name": "Adventure Gold",
+      "slug": "adventure-gold",
+      "logo": "img/coins/11568.png"
+    },
+    {
+      "id": 10688,
+      "rank": 604,
+      "symbol": "YGG",
+      "name": "Yield Guild Games",
+      "slug": "yield-guild-games",
+      "logo": "img/coins/10688.png"
+    },
+    {
+      "id": 7224,
+      "rank": 355,
+      "symbol": "DODO",
+      "name": "DODO",
+      "slug": "dodo",
+      "logo": "img/coins/7224.png"
+    },
+    {
+      "id": 1727,
+      "rank": 558,
+      "symbol": "BNT",
+      "name": "Bancor",
+      "slug": "bancor",
+      "logo": "img/coins/1727.png"
+    },
+    {
+      "id": 23149,
+      "rank": 95,
+      "symbol": "SEI",
+      "name": "Sei",
+      "slug": "sei",
+      "logo": "img/coins/23149.png"
+    },
+    {
+      "id": 24781,
+      "rank": 664,
+      "symbol": "CYBER",
+      "name": "Cyber",
+      "slug": "cyberconnect",
+      "logo": "img/coins/24781.png"
+    },
+    {
+      "id": 1586,
+      "rank": 490,
+      "symbol": "ARK",
+      "name": "Ark",
+      "slug": "ark",
+      "logo": "img/coins/1586.png"
+    },
+    {
+      "id": 9543,
+      "rank": 808,
+      "symbol": "BICO",
+      "name": "Biconomy",
+      "slug": "biconomy",
+      "logo": "img/coins/9543.png"
+    },
+    {
+      "id": 28230,
+      "rank": 675,
+      "symbol": "BIGTIME",
+      "name": "Big Time",
+      "slug": "big-time",
+      "logo": "img/coins/28230.png"
+    },
+    {
+      "id": 2300,
+      "rank": 648,
+      "symbol": "WAXP",
+      "name": "WAX",
+      "slug": "wax",
+      "logo": "img/coins/2300.png"
+    },
+    {
+      "id": 3602,
+      "rank": 97,
+      "symbol": "BSV",
+      "name": "Bitcoin SV",
+      "slug": "bitcoin-sv",
+      "logo": "img/coins/3602.png"
+    },
+    {
+      "id": 3701,
+      "rank": 406,
+      "symbol": "RIF",
+      "name": "Rootstock Infrastructure Framework",
+      "slug": "rsk-infrastructure-framework",
+      "logo": "img/coins/3701.png"
+    },
+    {
+      "id": 20362,
+      "rank": 395,
+      "symbol": "POLYX",
+      "name": "Polymesh",
+      "slug": "polymesh",
+      "logo": "img/coins/20362.png"
+    },
+    {
+      "id": 1785,
+      "rank": 196,
+      "symbol": "GAS",
+      "name": "Gas",
+      "slug": "gas",
+      "logo": "img/coins/1785.png"
+    },
+    {
+      "id": 2132,
+      "rank": 532,
+      "symbol": "POWR",
+      "name": "Powerledger",
+      "slug": "power-ledger",
+      "logo": "img/coins/2132.png"
+    },
+    {
+      "id": 22861,
+      "rank": 92,
+      "symbol": "TIA",
+      "name": "Celestia",
+      "slug": "celestia",
+      "logo": "img/coins/22861.png"
+    },
+    {
+      "id": 7186,
+      "rank": 74,
+      "symbol": "CAKE",
+      "name": "Pancake",
+      "slug": "pancakeswap",
+      "logo": "img/coins/7186.png"
+    },
+    {
+      "id": 28301,
+      "rank": 615,
+      "symbol": "MEME",
+      "name": "Memecoin",
+      "slug": "meme",
+      "logo": "img/coins/28301.png"
+    },
+    {
+      "id": 5964,
+      "rank": 142,
+      "symbol": "TWT",
+      "name": "Trust Wallet Token",
+      "slug": "trust-wallet-token",
+      "logo": "img/coins/5964.png"
+    },
+    {
+      "id": 25028,
+      "rank": 310,
+      "symbol": "ORDI",
+      "name": "ORDI",
+      "slug": "ordi",
+      "logo": "img/coins/25028.png"
+    },
+    {
+      "id": 1230,
+      "rank": 498,
+      "symbol": "STEEM",
+      "name": "Steem",
+      "slug": "steem",
+      "logo": "img/coins/1230.png"
+    },
+    {
+      "id": 8719,
+      "rank": 650,
+      "symbol": "ILV",
+      "name": "Illuvium",
+      "slug": "illuvium",
+      "logo": "img/coins/8719.png"
+    },
+    {
+      "id": 20396,
+      "rank": 66,
+      "symbol": "KAS",
+      "name": "Kaspa",
+      "slug": "kaspa",
+      "logo": "img/coins/20396.png"
+    },
+    {
+      "id": 28298,
+      "rank": 122,
+      "symbol": "BEAM",
+      "name": "Beam",
+      "slug": "onbeam",
+      "logo": "img/coins/28298.png"
+    },
+    {
+      "id": 23095,
+      "rank": 115,
+      "symbol": "BONK",
+      "name": "Bonk",
+      "slug": "bonk1",
+      "logo": "img/coins/23095.png"
+    },
+    {
+      "id": 28177,
+      "rank": 88,
+      "symbol": "PYTH",
+      "name": "Pyth Network",
+      "slug": "pyth-network",
+      "logo": "img/coins/28177.png"
+    },
+    {
+      "id": 8290,
+      "rank": 176,
+      "symbol": "SUPER",
+      "name": "SuperVerse",
+      "slug": "superverse",
+      "logo": "img/coins/8290.png"
+    },
+    {
+      "id": 7129,
+      "rank": 541,
+      "symbol": "USTC",
+      "name": "TerraClassicUSD",
+      "slug": "terrausd",
+      "logo": "img/coins/7129.png"
+    },
+    {
+      "id": 3217,
+      "rank": 476,
+      "symbol": "ONG",
+      "name": "Ontology Gas",
+      "slug": "ontology-gas",
+      "logo": "img/coins/3217.png"
+    },
+    {
+      "id": 21296,
+      "rank": 632,
+      "symbol": "ETHW",
+      "name": "EthereumPoW",
+      "slug": "ethereum-pow",
+      "logo": "img/coins/21296.png"
+    },
+    {
+      "id": 28541,
+      "rank": 144,
+      "symbol": "JTO",
+      "name": "Jito",
+      "slug": "jito",
+      "logo": "img/coins/28541.png"
+    },
+    {
+      "id": 28194,
+      "rank": 689,
+      "symbol": "SATS",
+      "name": "SATS (Ordinals)",
+      "slug": "sats-ordinals",
+      "logo": "img/coins/28194.png"
+    },
+    {
+      "id": 8602,
+      "rank": 622,
+      "symbol": "AUCTION",
+      "name": "Bounce Token",
+      "slug": "bounce-token",
+      "logo": "img/coins/8602.png"
+    },
+    {
+      "id": 33659,
+      "rank": 3663,
+      "symbol": "RATS",
+      "name": "GoldenRat",
+      "slug": "goldenrat",
+      "logo": "img/coins/33659.png"
+    },
+    {
+      "id": 28674,
+      "rank": 772,
+      "symbol": "ACE",
+      "name": "Fusionist",
+      "slug": "fusionist",
+      "logo": "img/coins/28674.png"
+    },
+    {
+      "id": 9285,
+      "rank": 831,
+      "symbol": "MOVR",
+      "name": "Moonriver",
+      "slug": "moonriver",
+      "logo": "img/coins/9285.png"
+    },
+    {
+      "id": 28933,
+      "rank": 800,
+      "symbol": "XAI",
+      "name": "Xai",
+      "slug": "xai-games",
+      "logo": "img/coins/28933.png"
+    },
+    {
+      "id": 28752,
+      "rank": 137,
+      "symbol": "WIF",
+      "name": "dogwifhat",
+      "slug": "dogwifhat",
+      "logo": "img/coins/28752.png"
+    },
+    {
+      "id": 13631,
+      "rank": 667,
+      "symbol": "MANTA",
+      "name": "Manta Network",
+      "slug": "manta-network",
+      "logo": "img/coins/13631.png"
+    },
+    {
+      "id": 21159,
+      "rank": 44,
+      "symbol": "ONDO",
+      "name": "Ondo",
+      "slug": "ondo-finance",
+      "logo": "img/coins/21159.png"
+    },
+    {
+      "id": 1214,
+      "rank": 439,
+      "symbol": "LSK",
+      "name": "Lisk",
+      "slug": "lisk",
+      "logo": "img/coins/1214.png"
+    },
+    {
+      "id": 29073,
+      "rank": 407,
+      "symbol": "ALT",
+      "name": "Altlayer",
+      "slug": "altlayer",
+      "logo": "img/coins/29073.png"
+    },
+    {
+      "id": 29210,
+      "rank": 63,
+      "symbol": "JUP",
+      "name": "Jupiter",
+      "slug": "jupiter-ag",
+      "logo": "img/coins/29210.png"
+    },
+    {
+      "id": 21259,
+      "rank": 320,
+      "symbol": "ZETA",
+      "name": "ZetaChain",
+      "slug": "zetachain",
+      "logo": "img/coins/21259.png"
+    },
+    {
+      "id": 14101,
+      "rank": 477,
+      "symbol": "RON",
+      "name": "Ronin",
+      "slug": "ronin",
+      "logo": "img/coins/14101.png"
+    },
+    {
+      "id": 28932,
+      "rank": 959,
+      "symbol": "DYM",
+      "name": "Dymension",
+      "slug": "dymension",
+      "logo": "img/coins/28932.png"
+    },
+    {
+      "id": 29335,
+      "rank": 827,
+      "symbol": "PIXEL",
+      "name": "Pixels",
+      "slug": "pixels",
+      "logo": "img/coins/29335.png"
+    },
+    {
+      "id": 22691,
+      "rank": 106,
+      "symbol": "STRK",
+      "name": "Starknet",
+      "slug": "starknet-token",
+      "logo": "img/coins/22691.png"
+    },
+    {
+      "id": 1455,
+      "rank": 160,
+      "symbol": "GLM",
+      "name": "Golem",
+      "slug": "golem-network-tokens",
+      "logo": "img/coins/1455.png"
+    },
+    {
+      "id": 29555,
+      "rank": 737,
+      "symbol": "PORTAL",
+      "name": "Portal",
+      "slug": "portal-gaming",
+      "logo": "img/coins/29555.png"
+    },
+    {
+      "id": 17799,
+      "rank": 370,
+      "symbol": "AXL",
+      "name": "Axelar",
+      "slug": "axelar",
+      "logo": "img/coins/17799.png"
+    },
+    {
+      "id": 9640,
+      "rank": 627,
+      "symbol": "METIS",
+      "name": "Metis",
+      "slug": "metisdao",
+      "logo": "img/coins/9640.png"
+    },
+    {
+      "id": 29676,
+      "rank": 699,
+      "symbol": "AEVO",
+      "name": "Aevo",
+      "slug": "aevo",
+      "logo": "img/coins/29676.png"
+    },
+    {
+      "id": 29870,
+      "rank": 422,
+      "symbol": "BOME",
+      "name": "BOOK OF MEME",
+      "slug": "book-of-meme",
+      "logo": "img/coins/29870.png"
+    },
+    {
+      "id": 29814,
+      "rank": 84,
+      "symbol": "ETHFI",
+      "name": "ether.fi",
+      "slug": "ether-fi-ethfi",
+      "logo": "img/coins/29814.png"
+    },
+    {
+      "id": 30171,
+      "rank": 46,
+      "symbol": "ENA",
+      "name": "Ethena",
+      "slug": "ethena",
+      "logo": "img/coins/30171.png"
+    },
+    {
+      "id": 29587,
+      "rank": 198,
+      "symbol": "W",
+      "name": "Wormhole",
+      "slug": "wormhole",
+      "logo": "img/coins/29587.png"
+    },
+    {
+      "id": 30449,
+      "rank": 855,
+      "symbol": "TNSR",
+      "name": "Tensor",
+      "slug": "tensor",
+      "logo": "img/coins/30449.png"
+    },
+    {
+      "id": 30372,
+      "rank": 1020,
+      "symbol": "SAGA",
+      "name": "Saga",
+      "slug": "saga",
+      "logo": "img/coins/30372.png"
+    },
+    {
+      "id": 22974,
+      "rank": 33,
+      "symbol": "TAO",
+      "name": "Bittensor",
+      "slug": "bittensor",
+      "logo": "img/coins/22974.png"
+    },
+    {
+      "id": 30843,
+      "rank": 559,
+      "symbol": "REZ",
+      "name": "Renzo",
+      "slug": "renzo",
+      "logo": "img/coins/30843.png"
+    },
+    {
+      "id": 30746,
+      "rank": 1034,
+      "symbol": "BB",
+      "name": "BounceBit",
+      "slug": "bouncebit",
+      "logo": "img/coins/30746.png"
+    },
+    {
+      "id": 28850,
+      "rank": 454,
+      "symbol": "NOT",
+      "name": "Notcoin",
+      "slug": "notcoin",
+      "logo": "img/coins/28850.png"
+    },
+    {
+      "id": 24911,
+      "rank": 367,
+      "symbol": "TURBO",
+      "name": "Turbo",
+      "slug": "turbo",
+      "logo": "img/coins/24911.png"
+    },
+    {
+      "id": 29835,
+      "rank": 364,
+      "symbol": "IO",
+      "name": "io.net",
+      "slug": "io-net",
+      "logo": "img/coins/29835.png"
+    },
+    {
+      "id": 24091,
+      "rank": 185,
+      "symbol": "ZK",
+      "name": "ZKsync",
+      "slug": "zksync",
+      "logo": "img/coins/24091.png"
+    },
+    {
+      "id": 30126,
+      "rank": 481,
+      "symbol": "MEW",
+      "name": "cat in a dogs world",
+      "slug": "mew",
+      "logo": "img/coins/30126.png"
+    },
+    {
+      "id": 21533,
+      "rank": 344,
+      "symbol": "LISTA",
+      "name": "Lista DAO",
+      "slug": "lista-dao",
+      "logo": "img/coins/21533.png"
+    },
+    {
+      "id": 26997,
+      "rank": 60,
+      "symbol": "ZRO",
+      "name": "LayerZero",
+      "slug": "layerzero",
+      "logo": "img/coins/26997.png"
+    },
+    {
+      "id": 5690,
+      "rank": 65,
+      "symbol": "RENDER",
+      "name": "Render",
+      "slug": "render",
+      "logo": "img/coins/5690.png"
+    },
+    {
+      "id": 28066,
+      "rank": 858,
+      "symbol": "BANANA",
+      "name": "Banana Gun",
+      "slug": "banana-gun",
+      "logo": "img/coins/28066.png"
+    },
+    {
+      "id": 11294,
+      "rank": 876,
+      "symbol": "RARE",
+      "name": "SuperRare",
+      "slug": "superrare",
+      "logo": "img/coins/11294.png"
+    },
+    {
+      "id": 32120,
+      "rank": 427,
+      "symbol": "G",
+      "name": "Gravity",
+      "slug": "gravity-token",
+      "logo": "img/coins/32120.png"
+    },
+    {
+      "id": 12147,
+      "rank": 478,
+      "symbol": "SYN",
+      "name": "Synapse",
+      "slug": "synapse-2",
+      "logo": "img/coins/12147.png"
+    },
+    {
+      "id": 29743,
+      "rank": 443,
+      "symbol": "BRETT",
+      "name": "Brett (Based)",
+      "slug": "based-brett",
+      "logo": "img/coins/29743.png"
+    },
+    {
+      "id": 28782,
+      "rank": 471,
+      "symbol": "POPCAT",
+      "name": "Popcat (SOL)",
+      "slug": "popcat-sol",
+      "logo": "img/coins/28782.png"
+    },
+    {
+      "id": 10529,
+      "rank": 99,
+      "symbol": "SUN",
+      "name": "Sun [New]",
+      "slug": "sun-token",
+      "logo": "img/coins/10529.png"
+    },
+    {
+      "id": 32698,
+      "rank": 751,
+      "symbol": "DOGS",
+      "name": "DOGS",
+      "slug": "dogs",
+      "logo": "img/coins/32698.png"
+    },
+    {
+      "id": 3029,
+      "rank": 563,
+      "symbol": "FLUX",
+      "name": "Flux",
+      "slug": "zel",
+      "logo": "img/coins/3029.png"
+    },
+    {
+      "id": 2943,
+      "rank": 453,
+      "symbol": "RPL",
+      "name": "Rocket Pool",
+      "slug": "rocket-pool",
+      "logo": "img/coins/2943.png"
+    },
+    {
+      "id": 28321,
+      "rank": 62,
+      "symbol": "POL",
+      "name": "Polygon (prev. MATIC)",
+      "slug": "polygon-ecosystem-token",
+      "logo": "img/coins/28321.png"
+    },
+    {
+      "id": 10407,
+      "rank": 338,
+      "symbol": "BABYDOGE",
+      "name": "Baby Doge Coin",
+      "slug": "baby-doge-coin",
+      "logo": "img/coins/10407.png"
+    },
+    {
+      "id": 32521,
+      "rank": 598,
+      "symbol": "NEIRO",
+      "name": "Neiro",
+      "slug": "neiro",
+      "logo": "img/coins/32521.png"
+    },
+    {
+      "id": 7978,
+      "rank": 757,
+      "symbol": "FIDA",
+      "name": "Bonfida",
+      "slug": "bonfida-sns",
+      "logo": "img/coins/7978.png"
+    },
+    {
+      "id": 32966,
+      "rank": 573,
+      "symbol": "CATI",
+      "name": "Catizen",
+      "slug": "catizen",
+      "logo": "img/coins/32966.png"
+    },
+    {
+      "id": 32195,
+      "rank": 969,
+      "symbol": "HMSTR",
+      "name": "Hamster Kombat",
+      "slug": "hamster-kombat",
+      "logo": "img/coins/32195.png"
+    },
+    {
+      "id": 30494,
+      "rank": 153,
+      "symbol": "EIGEN",
+      "name": "EigenCloud",
+      "slug": "eigencloud",
+      "logo": "img/coins/30494.png"
+    },
+    {
+      "id": 6138,
+      "rank": 734,
+      "symbol": "DIA",
+      "name": "DIA",
+      "slug": "dia",
+      "logo": "img/coins/6138.png"
+    },
+    {
+      "id": 32724,
+      "rank": 838,
+      "symbol": "CAT",
+      "name": "Simon's Cat",
+      "slug": "simonscat",
+      "logo": "img/coins/32724.png"
+    },
+    {
+      "id": 26998,
+      "rank": 1316,
+      "symbol": "SCR",
+      "name": "Scroll",
+      "slug": "scroll",
+      "logo": "img/coins/26998.png"
+    },
+    {
+      "id": 33440,
+      "rank": 799,
+      "symbol": "GOAT",
+      "name": "Goatseus Maximus",
+      "slug": "goatseus-maximus",
+      "logo": "img/coins/33440.png"
+    },
+    {
+      "id": 33093,
+      "rank": 456,
+      "symbol": "MOODENG",
+      "name": "Moo Deng (moodengsol.com)",
+      "slug": "moo-deng-solana",
+      "logo": "img/coins/33093.png"
+    },
+    {
+      "id": 21585,
+      "rank": 194,
+      "symbol": "SAFE",
+      "name": "Safe",
+      "slug": "safe1",
+      "logo": "img/coins/21585.png"
+    },
+    {
+      "id": 15248,
+      "rank": 1118,
+      "symbol": "SANTOS",
+      "name": "Santos FC Fan Token",
+      "slug": "santos-fc-fan-token",
+      "logo": "img/coins/15248.png"
+    },
+    {
+      "id": 19269,
+      "rank": 302,
+      "symbol": "COW",
+      "name": "CoW Protocol",
+      "slug": "cow-protocol",
+      "logo": "img/coins/19269.png"
+    },
+    {
+      "id": 25114,
+      "rank": 703,
+      "symbol": "CETUS",
+      "name": "Cetus Protocol",
+      "slug": "cetus-protocol",
+      "logo": "img/coins/25114.png"
+    },
+    {
+      "id": 27659,
+      "rank": 417,
+      "symbol": "MOG",
+      "name": "Mog Coin",
+      "slug": "mog-coin",
+      "logo": "img/coins/27659.png"
+    },
+    {
+      "id": 32956,
+      "rank": 166,
+      "symbol": "GRASS",
+      "name": "Grass",
+      "slug": "grass",
+      "logo": "img/coins/32956.png"
+    },
+    {
+      "id": 31278,
+      "rank": 1098,
+      "symbol": "DRIFT",
+      "name": "Drift",
+      "slug": "drift",
+      "logo": "img/coins/31278.png"
+    },
+    {
+      "id": 33566,
+      "rank": 892,
+      "symbol": "ACT",
+      "name": "Act I : The AI Prophecy",
+      "slug": "act-i-the-ai-prophecy",
+      "logo": "img/coins/33566.png"
+    },
+    {
+      "id": 33788,
+      "rank": 480,
+      "symbol": "PNUT",
+      "name": "Peanut the Squirrel",
+      "slug": "peanut-the-squirrel",
+      "logo": "img/coins/33788.png"
+    },
+    {
+      "id": 33881,
+      "rank": 321,
+      "symbol": "BAN",
+      "name": "Comedian",
+      "slug": "comedian",
+      "logo": "img/coins/33881.png"
+    },
+    {
+      "id": 7431,
+      "rank": 133,
+      "symbol": "AKT",
+      "name": "Akash Network",
+      "slug": "akash-network",
+      "logo": "img/coins/7431.png"
+    },
+    {
+      "id": 33280,
+      "rank": 311,
+      "symbol": "CHEEMS",
+      "name": "Cheems (cheems.pet)",
+      "slug": "cheems-pet",
+      "logo": "img/coins/33280.png"
+    },
+    {
+      "id": 23335,
+      "rank": 1247,
+      "symbol": "THE",
+      "name": "THENA",
+      "slug": "thena",
+      "logo": "img/coins/23335.png"
+    },
+    {
+      "id": 34104,
+      "rank": 56,
+      "symbol": "MORPHO",
+      "name": "Morpho",
+      "slug": "morpho",
+      "logo": "img/coins/34104.png"
+    },
+    {
+      "id": 34125,
+      "rank": 971,
+      "symbol": "CHILLGUY",
+      "name": "Just a chill guy",
+      "slug": "just-a-chill-guy",
+      "logo": "img/coins/34125.png"
+    },
+    {
+      "id": 32880,
+      "rank": 117,
+      "symbol": "KAIA",
+      "name": "Kaia",
+      "slug": "kaia",
+      "logo": "img/coins/32880.png"
+    },
+    {
+      "id": 29270,
+      "rank": 93,
+      "symbol": "AERO",
+      "name": "Aero",
+      "slug": "aerodrome-finance",
+      "logo": "img/coins/29270.png"
+    },
+    {
+      "id": 11165,
+      "rank": 177,
+      "symbol": "ORCA",
+      "name": "Orca",
+      "slug": "orca",
+      "logo": "img/coins/11165.png"
+    },
+    {
+      "id": 32452,
+      "rank": 504,
+      "symbol": "MOVE",
+      "name": "Movement",
+      "slug": "movement",
+      "logo": "img/coins/32452.png"
+    },
+    {
+      "id": 8526,
+      "rank": 89,
+      "symbol": "RAY",
+      "name": "Raydium",
+      "slug": "raydium",
+      "logo": "img/coins/8526.png"
+    },
+    {
+      "id": 33405,
+      "rank": 1145,
+      "symbol": "KOMA",
+      "name": "Koma Inu",
+      "slug": "koma-inu",
+      "logo": "img/coins/33405.png"
+    },
+    {
+      "id": 29420,
+      "rank": 107,
+      "symbol": "VIRTUAL",
+      "name": "Virtuals Protocol",
+      "slug": "virtual-protocol",
+      "logo": "img/coins/29420.png"
+    },
+    {
+      "id": 28081,
+      "rank": 102,
+      "symbol": "SPX",
+      "name": "SPX6900",
+      "slug": "spx6900",
+      "logo": "img/coins/28081.png"
+    },
+    {
+      "id": 32197,
+      "rank": 503,
+      "symbol": "ME",
+      "name": "Magic Eden",
+      "slug": "magiceden",
+      "logo": "img/coins/32197.png"
+    },
+    {
+      "id": 2776,
+      "rank": 680,
+      "symbol": "AVA",
+      "name": "AVA (Travala)",
+      "slug": "ava",
+      "logo": "img/coins/2776.png"
+    },
+    {
+      "id": 31526,
+      "rank": 475,
+      "symbol": "MOCA",
+      "name": "Moca Network",
+      "slug": "mocaverse",
+      "logo": "img/coins/31526.png"
+    },
+    {
+      "id": 34619,
+      "rank": 644,
+      "symbol": "VANA",
+      "name": "Vana",
+      "slug": "vana",
+      "logo": "img/coins/34619.png"
+    },
+    {
+      "id": 34466,
+      "rank": 100,
+      "symbol": "PENGU",
+      "name": "Pudgy Penguins",
+      "slug": "pudgy-penguins",
+      "logo": "img/coins/34466.png"
+    },
+    {
+      "id": 33439,
+      "rank": 797,
+      "symbol": "LUMIA",
+      "name": "Lumia",
+      "slug": "lumia",
+      "logo": "img/coins/33439.png"
+    },
+    {
+      "id": 33979,
+      "rank": 525,
+      "symbol": "USUAL",
+      "name": "Usual",
+      "slug": "usual",
+      "logo": "img/coins/33979.png"
+    },
+    {
+      "id": 34103,
+      "rank": 767,
+      "symbol": "AIXBT",
+      "name": "aixbt",
+      "slug": "aixbt",
+      "logo": "img/coins/34103.png"
+    },
+    {
+      "id": 33597,
+      "rank": 174,
+      "symbol": "FARTCOIN",
+      "name": "Fartcoin",
+      "slug": "fartcoin",
+      "logo": "img/coins/33597.png"
+    },
+    {
+      "id": 30986,
+      "rank": 136,
+      "symbol": "KMNO",
+      "name": "Kamino",
+      "slug": "kamino-finance",
+      "logo": "img/coins/30986.png"
+    },
+    {
+      "id": 23756,
+      "rank": 790,
+      "symbol": "CGPT",
+      "name": "ChainGPT",
+      "slug": "chaingpt",
+      "logo": "img/coins/23756.png"
+    },
+    {
+      "id": 5370,
+      "rank": 570,
+      "symbol": "HIVE",
+      "name": "Hive",
+      "slug": "hive-blockchain",
+      "logo": "img/coins/5370.png"
+    },
+    {
+      "id": 7326,
+      "rank": 167,
+      "symbol": "DEXE",
+      "name": "DeXe",
+      "slug": "dexe",
+      "logo": "img/coins/7326.png"
+    },
+    {
+      "id": 6841,
+      "rank": 499,
+      "symbol": "PHA",
+      "name": "Phala Network",
+      "slug": "phala-network",
+      "logo": "img/coins/6841.png"
+    },
+    {
+      "id": 34792,
+      "rank": 851,
+      "symbol": "GRIFFAIN",
+      "name": "GRIFFAIN",
+      "slug": "griffain",
+      "logo": "img/coins/34792.png"
+    },
+    {
+      "id": 34083,
+      "rank": 589,
+      "symbol": "ZEREBRO",
+      "name": "Zerebro",
+      "slug": "zerebro",
+      "logo": "img/coins/34083.png"
+    },
+    {
+      "id": 34812,
+      "rank": 380,
+      "symbol": "BIO",
+      "name": "Bio Protocol",
+      "slug": "bio",
+      "logo": "img/coins/34812.png"
+    },
+    {
+      "id": 31838,
+      "rank": 1030,
+      "symbol": "COOKIE",
+      "name": "Cookie DAO",
+      "slug": "cookie",
+      "logo": "img/coins/31838.png"
+    },
+    {
+      "id": 34880,
+      "rank": 513,
+      "symbol": "ALCH",
+      "name": "Alchemist AI",
+      "slug": "alchemist-ai",
+      "logo": "img/coins/34880.png"
+    },
+    {
+      "id": 34993,
+      "rank": 1077,
+      "symbol": "SWARMS",
+      "name": "Swarms",
+      "slug": "swarms",
+      "logo": "img/coins/34993.png"
+    },
+    {
+      "id": 35051,
+      "rank": 685,
+      "symbol": "SONIC",
+      "name": "Sonic SVM",
+      "slug": "sonic-svm",
+      "logo": "img/coins/35051.png"
+    },
+    {
+      "id": 4120,
+      "rank": 168,
+      "symbol": "PROM",
+      "name": "Prom",
+      "slug": "prom",
+      "logo": "img/coins/4120.png"
+    },
+    {
+      "id": 32684,
+      "rank": 148,
+      "symbol": "S",
+      "name": "Sonic",
+      "slug": "sonic",
+      "logo": "img/coins/32684.png"
+    },
+    {
+      "id": 12165,
+      "rank": 523,
+      "symbol": "SOLV",
+      "name": "Solv Protocol",
+      "slug": "solv-protocol",
+      "logo": "img/coins/12165.png"
+    },
+    {
+      "id": 34926,
+      "rank": 500,
+      "symbol": "ARC",
+      "name": "AI Rig Complex",
+      "slug": "ai-rig-complex",
+      "logo": "img/coins/34926.png"
+    },
+    {
+      "id": 35156,
+      "rank": 4170,
+      "symbol": "AVAAI",
+      "name": "avaai.top",
+      "slug": "ava-ai-top",
+      "logo": "img/coins/35156.png"
+    },
+    {
+      "id": 35336,
+      "rank": 110,
+      "symbol": "TRUMP",
+      "name": "OFFICIAL TRUMP",
+      "slug": "official-trump",
+      "logo": "img/coins/35336.png"
+    },
+    {
+      "id": 35347,
+      "rank": 328,
+      "symbol": "MELANIA",
+      "name": "Official Melania Meme",
+      "slug": "melania-meme",
+      "logo": "img/coins/35347.png"
+    },
+    {
+      "id": 3012,
+      "rank": 345,
+      "symbol": "VTHO",
+      "name": "VeThor Token",
+      "slug": "vethor-token",
+      "logo": "img/coins/3012.png"
+    },
+    {
+      "id": 35319,
+      "rank": 775,
+      "symbol": "ANIME",
+      "name": "Animecoin",
+      "slug": "anime",
+      "logo": "img/coins/35319.png"
+    },
+    {
+      "id": 35053,
+      "rank": 637,
+      "symbol": "PIPPIN",
+      "name": "pippin",
+      "slug": "pippin",
+      "logo": "img/coins/35053.png"
+    },
+    {
+      "id": 35509,
+      "rank": 47,
+      "symbol": "VVV",
+      "name": "Venice Token",
+      "slug": "venice-token",
+      "logo": "img/coins/35509.png"
+    },
+    {
+      "id": 24647,
+      "rank": 458,
+      "symbol": "BERA",
+      "name": "Berachain",
+      "slug": "berachain",
+      "logo": "img/coins/24647.png"
+    },
+    {
+      "id": 35647,
+      "rank": 849,
+      "symbol": "TST",
+      "name": "Test",
+      "slug": "test-token-bsc",
+      "logo": "img/coins/35647.png"
+    },
+    {
+      "id": 35429,
+      "rank": 539,
+      "symbol": "LAYER",
+      "name": "Solayer",
+      "slug": "solayer"
+    },
+    {
+      "id": 35724,
+      "rank": 1025,
+      "symbol": "HEI",
+      "name": "Heima",
+      "slug": "heima"
+    },
+    {
+      "id": 35268,
+      "rank": 307,
+      "symbol": "GPS",
+      "name": "GoPlus Security",
+      "slug": "goplus-security"
+    },
+    {
+      "id": 35710,
+      "rank": 748,
+      "symbol": "SHELL",
+      "name": "MyShell",
+      "slug": "myshell"
+    },
+    {
+      "id": 35763,
+      "rank": 387,
+      "symbol": "KAITO",
+      "name": "KAITO",
+      "slug": "kaito"
+    },
+    {
+      "id": 21707,
+      "rank": 293,
+      "symbol": "RED",
+      "name": "RedStone",
+      "slug": "redstone"
+    },
+    {
+      "id": 35214,
+      "rank": 745,
+      "symbol": "BMT",
+      "name": "Bubblemaps",
+      "slug": "bubblemaps"
+    },
+    {
+      "id": 36041,
+      "rank": 554,
+      "symbol": "MUBARAK",
+      "name": "Mubarak",
+      "slug": "mubarak"
+    },
+    {
+      "id": 23635,
+      "rank": 193,
+      "symbol": "FORM",
+      "name": "Four",
+      "slug": "binaryx-new"
+    },
+    {
+      "id": 35892,
+      "rank": 829,
+      "symbol": "TUT",
+      "name": "Tutorial",
+      "slug": "tutorial"
+    },
+    {
+      "id": 35766,
+      "rank": 618,
+      "symbol": "SIREN",
+      "name": "siren",
+      "slug": "siren-bsc"
+    },
+    {
+      "id": 34118,
+      "rank": 323,
+      "symbol": "BANANAS31",
+      "name": "Banana For Scale",
+      "slug": "banana-for-scale"
+    },
+    {
+      "id": 36063,
+      "rank": 248,
+      "symbol": "BR",
+      "name": "Bedrock",
+      "slug": "bedrock-dao"
+    },
+    {
+      "id": 35364,
+      "rank": 179,
+      "symbol": "PLUME",
+      "name": "Plume",
+      "slug": "plume"
+    },
+    {
+      "id": 35702,
+      "rank": 520,
+      "symbol": "NIL",
+      "name": "Nillion",
+      "slug": "nillion",
+      "logo": "img/coins/35702.png"
+    },
+    {
+      "id": 36102,
+      "rank": 528,
+      "symbol": "PARTI",
+      "name": "Particle Network",
+      "slug": "particle-network",
+      "logo": "img/coins/36102.png"
+    },
+    {
+      "id": 35537,
+      "rank": 368,
+      "symbol": "JELLYJELLY",
+      "name": "Jelly-My-Jelly",
+      "slug": "jelly-my-jelly",
+      "logo": "img/coins/35537.png"
+    },
+    {
+      "id": 28829,
+      "rank": 1112,
+      "symbol": "MAVIA",
+      "name": "Heroes of Mavia",
+      "slug": "heroes-of-mavia",
+      "logo": "img/coins/28829.png"
+    },
+    {
+      "id": 4705,
+      "rank": 39,
+      "symbol": "PAXG",
+      "name": "PAX Gold",
+      "slug": "pax-gold",
+      "logo": "img/coins/4705.png"
+    },
+    {
+      "id": 36119,
+      "rank": 200,
+      "symbol": "WAL",
+      "name": "Walrus",
+      "slug": "walrus-xyz",
+      "logo": "img/coins/36119.png"
+    },
+    {
+      "id": 36156,
+      "rank": 1081,
+      "symbol": "GUN",
+      "name": "GUNZ",
+      "slug": "gunz",
+      "logo": "img/coins/36156.png"
+    },
+    {
+      "id": 30083,
+      "rank": 181,
+      "symbol": "ATH",
+      "name": "Aethir",
+      "slug": "aethir",
+      "logo": "img/coins/30083.png"
+    },
+    {
+      "id": 32198,
+      "rank": 316,
+      "symbol": "BABY",
+      "name": "Babylon",
+      "slug": "babylon",
+      "logo": "img/coins/32198.png"
+    },
+    {
+      "id": 32194,
+      "rank": 1142,
+      "symbol": "STO",
+      "name": "StakeStone",
+      "slug": "stakestone",
+      "logo": "img/coins/32194.png"
+    },
+    {
+      "id": 36153,
+      "rank": 916,
+      "symbol": "FHE",
+      "name": "Mind Network",
+      "slug": "mind-network",
+      "logo": "img/coins/36153.png"
+    },
+    {
+      "id": 36180,
+      "rank": 788,
+      "symbol": "KERNEL",
+      "name": "KernelDAO",
+      "slug": "kerneldao",
+      "logo": "img/coins/36180.png"
+    },
+    {
+      "id": 33152,
+      "rank": 720,
+      "symbol": "WCT",
+      "name": "WalletConnect Token",
+      "slug": "walletconnect-token",
+      "logo": "img/coins/33152.png"
+    },
+    {
+      "id": 33120,
+      "rank": 602,
+      "symbol": "INIT",
+      "name": "Initia",
+      "slug": "initia",
+      "logo": "img/coins/33120.png"
+    },
+    {
+      "id": 36296,
+      "rank": 777,
+      "symbol": "BANK",
+      "name": "Lorenzo Protocol",
+      "slug": "lorenzo-protocol",
+      "logo": "img/coins/36296.png"
+    },
+    {
+      "id": 33391,
+      "rank": 182,
+      "symbol": "DEEP",
+      "name": "DeepBook Protocol",
+      "slug": "deepbook-protocol",
+      "logo": "img/coins/33391.png"
+    },
+    {
+      "id": 36281,
+      "rank": 620,
+      "symbol": "HYPER",
+      "name": "Hyperlane",
+      "slug": "hyperlane",
+      "logo": "img/coins/36281.png"
+    },
+    {
+      "id": 5488,
+      "rank": 50,
+      "symbol": "JST",
+      "name": "JUST",
+      "slug": "just",
+      "logo": "img/coins/5488.png"
+    },
+    {
+      "id": 35600,
+      "rank": 582,
+      "symbol": "SIGN",
+      "name": "Sign",
+      "slug": "sign",
+      "logo": "img/coins/35600.png"
+    },
+    {
+      "id": 9040,
+      "rank": 603,
+      "symbol": "PUNDIX",
+      "name": "Pundi X (New)",
+      "slug": "pundix-new",
+      "logo": "img/coins/9040.png"
+    },
+    {
+      "id": 4807,
+      "rank": 802,
+      "symbol": "CTK",
+      "name": "Shentu",
+      "slug": "shentu",
+      "logo": "img/coins/4807.png"
+    },
+    {
+      "id": 36319,
+      "rank": 329,
+      "symbol": "AIOT",
+      "name": "OKZOO",
+      "slug": "okzoo",
+      "logo": "img/coins/36319.png"
+    },
+    {
+      "id": 35929,
+      "rank": 949,
+      "symbol": "DOLO",
+      "name": "Dolomite",
+      "slug": "dolomite",
+      "logo": "img/coins/35929.png"
+    },
+    {
+      "id": 36369,
+      "rank": 795,
+      "symbol": "HAEDAL",
+      "name": "Haedal Protocol",
+      "slug": "haedal-protocol",
+      "logo": "img/coins/36369.png"
+    },
+    {
+      "id": 36405,
+      "rank": 633,
+      "symbol": "SXT",
+      "name": "Space and Time",
+      "slug": "space-and-time",
+      "logo": "img/coins/36405.png"
+    },
+    {
+      "id": 5229,
+      "rank": 1052,
+      "symbol": "ASR",
+      "name": "AS Roma Fan Token",
+      "slug": "as-roma-fan-token",
+      "logo": "img/coins/5229.png"
+    },
+    {
+      "id": 18112,
+      "rank": 1113,
+      "symbol": "ALPINE",
+      "name": "Alpine F1 Team Fan Token",
+      "slug": "alpine-f1-team-fan-token",
+      "logo": "img/coins/18112.png"
+    },
+    {
+      "id": 36352,
+      "rank": 463,
+      "symbol": "B2",
+      "name": "BSquared Network",
+      "slug": "bsquared-network",
+      "logo": "img/coins/36352.png"
+    },
+    {
+      "id": 33824,
+      "rank": 172,
+      "symbol": "SYRUP",
+      "name": "Maple Finance",
+      "slug": "maple-finance",
+      "logo": "img/coins/33824.png"
+    },
+    {
+      "id": 35747,
+      "rank": 846,
+      "symbol": "DOOD",
+      "name": "Doodles",
+      "slug": "doodles",
+      "logo": "img/coins/35747.png"
+    },
+    {
+      "id": 5309,
+      "rank": 918,
+      "symbol": "OG",
+      "name": "OG Fan Token",
+      "slug": "og-fan-token",
+      "logo": "img/coins/5309.png"
+    },
+    {
+      "id": 36300,
+      "rank": 372,
+      "symbol": "SKYAI",
+      "name": "SKYAI",
+      "slug": "skyai",
+      "logo": "img/coins/36300.png"
+    },
+    {
+      "id": 36044,
+      "rank": 352,
+      "symbol": "NXPC",
+      "name": "NEXPACE",
+      "slug": "maplestory-universe",
+      "logo": "img/coins/36044.png"
+    },
+    {
+      "id": 1816,
+      "rank": 674,
+      "symbol": "CVC",
+      "name": "Civic",
+      "slug": "civic",
+      "logo": "img/coins/1816.png"
+    },
+    {
+      "id": 36195,
+      "rank": 326,
+      "symbol": "AGT",
+      "name": "Alaya Governance Token",
+      "slug": "alaya-ai",
+      "logo": "img/coins/36195.png"
+    },
+    {
+      "id": 4006,
+      "rank": 159,
+      "symbol": "AWE",
+      "name": "AWE",
+      "slug": "awe-network",
+      "logo": "img/coins/4006.png"
+    },
+    {
+      "id": 36532,
+      "rank": 162,
+      "symbol": "B",
+      "name": "BUILDon",
+      "slug": "buildon",
+      "logo": "img/coins/36532.png"
+    },
+    {
+      "id": 36542,
+      "rank": 126,
+      "symbol": "SOON",
+      "name": "SOON",
+      "slug": "soon",
+      "logo": "img/coins/36542.png"
+    },
+    {
+      "id": 36576,
+      "rank": 531,
+      "symbol": "HUMA",
+      "name": "Huma Finance",
+      "slug": "huma-finance",
+      "logo": "img/coins/36576.png"
+    },
+    {
+      "id": 36462,
+      "rank": 154,
+      "symbol": "A",
+      "name": "Vaulta",
+      "slug": "vaulta",
+      "logo": "img/coins/36462.png"
+    },
+    {
+      "id": 32087,
+      "rank": 1070,
+      "symbol": "SOPH",
+      "name": "Sophon",
+      "slug": "sophon",
+      "logo": "img/coins/32087.png"
+    },
+    {
+      "id": 30712,
+      "rank": 365,
+      "symbol": "MERL",
+      "name": "Merlin Chain",
+      "slug": "merlin-chain",
+      "logo": "img/coins/30712.png"
+    },
+    {
+      "id": 32196,
+      "rank": 9,
+      "symbol": "HYPE",
+      "name": "Hyperliquid",
+      "slug": "hyperliquid",
+      "logo": "img/coins/32196.png"
+    },
+    {
+      "id": 36510,
+      "rank": 750,
+      "symbol": "LA",
+      "name": "Lagrange",
+      "slug": "lagrange",
+      "logo": "img/coins/36510.png"
+    },
+    {
+      "id": 36133,
+      "rank": 628,
+      "symbol": "HOME",
+      "name": "Defi App",
+      "slug": "defi-app",
+      "logo": "img/coins/36133.png"
+    },
+    {
+      "id": 36713,
+      "rank": 982,
+      "symbol": "RESOLV",
+      "name": "Resolv",
+      "slug": "resolv",
+      "logo": "img/coins/36713.png"
+    },
+    {
+      "id": 31525,
+      "rank": 712,
+      "symbol": "TAIKO",
+      "name": "Taiko",
+      "slug": "taiko",
+      "logo": "img/coins/31525.png"
+    },
+    {
+      "id": 12894,
+      "rank": 668,
+      "symbol": "SQD",
+      "name": "Subsquid",
+      "slug": "subsquid",
+      "logo": "img/coins/12894.png"
+    },
+    {
+      "id": 36569,
+      "rank": 340,
+      "symbol": "SPK",
+      "name": "Spark",
+      "slug": "spark",
+      "logo": "img/coins/36569.png"
+    },
+    {
+      "id": 36410,
+      "rank": 713,
+      "symbol": "MYX",
+      "name": "MYX Finance",
+      "slug": "myx-finance",
+      "logo": "img/coins/36410.png"
+    },
+    {
+      "id": 34297,
+      "rank": 792,
+      "symbol": "F",
+      "name": "SynFutures",
+      "slug": "synfutures",
+      "logo": "img/coins/34297.png"
+    },
+    {
+      "id": 36861,
+      "rank": 770,
+      "symbol": "NEWT",
+      "name": "Newton Protocol",
+      "slug": "newton-protocol",
+      "logo": "img/coins/36861.png"
+    },
+    {
+      "id": 36922,
+      "rank": 567,
+      "symbol": "H",
+      "name": "Humanity",
+      "slug": "humanity-protocol",
+      "logo": "img/coins/36922.png"
+    },
+    {
+      "id": 36671,
+      "rank": 577,
+      "symbol": "SAHARA",
+      "name": "Sahara AI",
+      "slug": "sahara-ai",
+      "logo": "img/coins/36671.png"
+    },
+    {
+      "id": 37070,
+      "rank": 186,
+      "symbol": "ICNT",
+      "name": "Impossible Cloud Network",
+      "slug": "impossible-cloud-network",
+      "logo": "img/coins/37070.png"
+    },
+    {
+      "id": 36769,
+      "rank": 303,
+      "symbol": "BULLA",
+      "name": "Bulla",
+      "slug": "bulla-mascot",
+      "logo": "img/coins/36769.png"
+    },
+    {
+      "id": 36775,
+      "rank": 569,
+      "symbol": "IDOL",
+      "name": "MEET48",
+      "slug": "meet48",
+      "logo": "img/coins/36775.png"
+    },
+    {
+      "id": 35491,
+      "rank": 36,
+      "symbol": "M",
+      "name": "MemeCore",
+      "slug": "memecore",
+      "logo": "img/coins/35491.png"
+    },
+    {
+      "id": 36507,
+      "rank": 51,
+      "symbol": "PUMP",
+      "name": "Pump.fun",
+      "slug": "pump-fun",
+      "logo": "img/coins/36507.png"
+    },
+    {
+      "id": 36770,
+      "rank": 426,
+      "symbol": "AIN",
+      "name": "Infinity Ground",
+      "slug": "infinity-ground",
+      "logo": "img/coins/36770.png"
+    },
+    {
+      "id": 37340,
+      "rank": 451,
+      "symbol": "C",
+      "name": "Chainbase",
+      "slug": "chainbase",
+      "logo": "img/coins/37340.png"
+    },
+    {
+      "id": 37298,
+      "rank": 325,
+      "symbol": "VELVET",
+      "name": "Velvet",
+      "slug": "velvet",
+      "logo": "img/coins/37298.png"
+    },
+    {
+      "id": 37338,
+      "rank": 1011,
+      "symbol": "TAC",
+      "name": "TAC Protocol",
+      "slug": "tac-protocol",
+      "logo": "img/coins/37338.png"
+    },
+    {
+      "id": 37374,
+      "rank": 833,
+      "symbol": "ERA",
+      "name": "Caldera",
+      "slug": "caldera",
+      "logo": "img/coins/37374.png"
+    },
+    {
+      "id": 37430,
+      "rank": 315,
+      "symbol": "TA",
+      "name": "Trusta.AI",
+      "slug": "trusta-ai",
+      "logo": "img/coins/37430.png"
+    },
+    {
+      "id": 9903,
+      "rank": 150,
+      "symbol": "CVX",
+      "name": "Convex Finance",
+      "slug": "convex-finance",
+      "logo": "img/coins/9903.png"
+    },
+    {
+      "id": 5824,
+      "rank": 696,
+      "symbol": "SLP",
+      "name": "Smooth Love Potion",
+      "slug": "smooth-love-potion",
+      "logo": "img/coins/5824.png"
+    },
+    {
+      "id": 35931,
+      "rank": 619,
+      "symbol": "ZORA",
+      "name": "ZORA",
+      "slug": "zora",
+      "logo": "img/coins/35931.png"
+    },
+    {
+      "id": 34958,
+      "rank": 199,
+      "symbol": "TAG",
+      "name": "Tagger",
+      "slug": "tagger",
+      "logo": "img/coins/34958.png"
+    },
+    {
+      "id": 37414,
+      "rank": 888,
+      "symbol": "ESPORTS",
+      "name": "Yooldo",
+      "slug": "yooldo",
+      "logo": "img/coins/37414.png"
+    },
+    {
+      "id": 37495,
+      "rank": 1165,
+      "symbol": "TREE",
+      "name": "Treehouse",
+      "slug": "treehouse",
+      "logo": "img/coins/37495.png"
+    },
+    {
+      "id": 37534,
+      "rank": 955,
+      "symbol": "PLAY",
+      "name": "PlaysOut",
+      "slug": "playsout",
+      "logo": "img/coins/37534.png"
+    },
+    {
+      "id": 35114,
+      "rank": 690,
+      "symbol": "NAORIS",
+      "name": "NaoX Protocol",
+      "slug": "naoris-protocol",
+      "logo": "img/coins/35114.png"
+    },
+    {
+      "id": 37571,
+      "rank": 1223,
+      "symbol": "TOWNS",
+      "name": "Towns",
+      "slug": "towns",
+      "logo": "img/coins/37571.png"
+    },
+    {
+      "id": 37593,
+      "rank": 494,
+      "symbol": "PROVE",
+      "name": "Succinct",
+      "slug": "succinct",
+      "logo": "img/coins/37593.png"
+    },
+    {
+      "id": 33963,
+      "rank": 2562,
+      "symbol": "ALL",
+      "name": "Sallar",
+      "slug": "sallar",
+      "logo": "img/coins/33963.png"
+    },
+    {
+      "id": 37609,
+      "rank": 990,
+      "symbol": "IN",
+      "name": "INFINIT",
+      "slug": "infinit",
+      "logo": "img/coins/37609.png"
+    },
+    {
+      "id": 33372,
+      "rank": 635,
+      "symbol": "CARV",
+      "name": "CARV",
+      "slug": "carv",
+      "logo": "img/coins/33372.png"
+    },
+    {
+      "id": 37562,
+      "rank": 1037,
+      "symbol": "AIO",
+      "name": "OLAXBT",
+      "slug": "olaxbt",
+      "logo": "img/coins/37562.png"
+    },
+    {
+      "id": 36933,
+      "rank": 678,
+      "symbol": "XNY",
+      "name": "XnY",
+      "slug": "codatta",
+      "logo": "img/coins/36933.png"
+    },
+    {
+      "id": 36828,
+      "rank": 178,
+      "symbol": "USELESS",
+      "name": "Useless Coin",
+      "slug": "theuselesscoin",
+      "logo": "img/coins/36828.png"
+    },
+    {
+      "id": 38117,
+      "rank": 870,
+      "symbol": "SAPIEN",
+      "name": "Sapien",
+      "slug": "sapien-io",
+      "logo": "img/coins/38117.png"
+    },
+    {
+      "id": 36645,
+      "rank": 108,
+      "symbol": "XPL",
+      "name": "Plasma",
+      "slug": "plasma-xpl",
+      "logo": "img/coins/36645.png"
+    },
+    {
+      "id": 33251,
+      "rank": 71,
+      "symbol": "WLFI",
+      "name": "World Liberty Financial",
+      "slug": "world-liberty-financial-wlfi",
+      "logo": "img/coins/33251.png"
+    },
+    {
+      "id": 37637,
+      "rank": 415,
+      "symbol": "SOMI",
+      "name": "Somnia",
+      "slug": "somnia",
+      "logo": "img/coins/37637.png"
+    },
+    {
+      "id": 37387,
+      "rank": 450,
+      "symbol": "BAS",
+      "name": "BAS",
+      "slug": "bnb-attestation-service",
+      "logo": "img/coins/37387.png"
+    },
+    {
+      "id": 36277,
+      "rank": 758,
+      "symbol": "BTR",
+      "name": "Bitlayer",
+      "slug": "bitlayer",
+      "logo": "img/coins/36277.png"
+    },
+    {
+      "id": 38159,
+      "rank": 867,
+      "symbol": "HEMI",
+      "name": "Hemi",
+      "slug": "hemi",
+      "logo": "img/coins/38159.png"
+    },
+    {
+      "id": 27657,
+      "rank": 384,
+      "symbol": "LINEA",
+      "name": "Linea",
+      "slug": "linea",
+      "logo": "img/coins/27657.png"
+    },
+    {
+      "id": 38236,
+      "rank": 243,
+      "symbol": "Q",
+      "name": "Quack AI",
+      "slug": "quack-ai",
+      "logo": "img/coins/38236.png"
+    },
+    {
+      "id": 38102,
+      "rank": 237,
+      "symbol": "ARIA",
+      "name": "AriaAI",
+      "slug": "aria-ai",
+      "logo": "img/coins/38102.png"
+    },
+    {
+      "id": 38175,
+      "rank": 489,
+      "symbol": "TAKE",
+      "name": "OVERTAKE",
+      "slug": "overtake",
+      "logo": "img/coins/38175.png"
+    },
+    {
+      "id": 37456,
+      "rank": 473,
+      "symbol": "OPEN",
+      "name": "OpenLedger",
+      "slug": "openledger",
+      "logo": "img/coins/37456.png"
+    },
+    {
+      "id": 34987,
+      "rank": 695,
+      "symbol": "FLOCK",
+      "name": "FLock.io",
+      "slug": "flock-io",
+      "logo": "img/coins/34987.png"
+    },
+    {
+      "id": 33038,
+      "rank": 49,
+      "symbol": "SKY",
+      "name": "Sky",
+      "slug": "sky",
+      "logo": "img/coins/33038.png"
+    },
+    {
+      "id": 38299,
+      "rank": 524,
+      "symbol": "AVNT",
+      "name": "Veranta",
+      "slug": "avantis",
+      "logo": "img/coins/38299.png"
+    },
+    {
+      "id": 38309,
+      "rank": 403,
+      "symbol": "HOLO",
+      "name": "Holoworld AI",
+      "slug": "holoworld-ai",
+      "logo": "img/coins/38309.png"
+    },
+    {
+      "id": 36238,
+      "rank": 389,
+      "symbol": "XPIN",
+      "name": "XPIN Network",
+      "slug": "xpin-network",
+      "logo": "img/coins/36238.png"
+    },
+    {
+      "id": 38339,
+      "rank": 220,
+      "symbol": "UB",
+      "name": "Unibase",
+      "slug": "unibase",
+      "logo": "img/coins/38339.png"
+    },
+    {
+      "id": 38371,
+      "rank": 756,
+      "symbol": "ZKC",
+      "name": "Boundless",
+      "slug": "boundless",
+      "logo": "img/coins/38371.png"
+    },
+    {
+      "id": 27750,
+      "rank": 414,
+      "symbol": "TOSHI",
+      "name": "Toshi",
+      "slug": "toshithecat",
+      "logo": "img/coins/27750.png"
+    },
+    {
+      "id": 38359,
+      "rank": 716,
+      "symbol": "STBL",
+      "name": "STBL",
+      "slug": "stbl",
+      "logo": "img/coins/38359.png"
+    },
+    {
+      "id": 38337,
+      "rank": 195,
+      "symbol": "0G",
+      "name": "0G",
+      "slug": "zero-gravity",
+      "logo": "img/coins/38337.png"
+    },
+    {
+      "id": 38408,
+      "rank": 424,
+      "symbol": "BARD",
+      "name": "Lombard",
+      "slug": "lombard",
+      "logo": "img/coins/38408.png"
+    },
+    {
+      "id": 36341,
+      "rank": 45,
+      "symbol": "ASTER",
+      "name": "Aster",
+      "slug": "aster",
+      "logo": "img/coins/36341.png"
+    },
+    {
+      "id": 36737,
+      "rank": 895,
+      "symbol": "TRADOOR",
+      "name": "Tradoor",
+      "slug": "tradoor",
+      "logo": "img/coins/36737.png"
+    },
+    {
+      "id": 38466,
+      "rank": 374,
+      "symbol": "BLESS",
+      "name": "Bless",
+      "slug": "bless",
+      "logo": "img/coins/38466.png"
+    },
+    {
+      "id": 10508,
+      "rank": 146,
+      "symbol": "FLUID",
+      "name": "Fluid",
+      "slug": "instadapp",
+      "logo": "img/coins/10508.png"
+    },
+    {
+      "id": 38489,
+      "rank": 437,
+      "symbol": "COAI",
+      "name": "ChainOpera AI",
+      "slug": "chainopera-ai",
+      "logo": "img/coins/38489.png"
+    },
+    {
+      "id": 38468,
+      "rank": 781,
+      "symbol": "HANA",
+      "name": "Hana Network",
+      "slug": "hana-network",
+      "logo": "img/coins/38468.png"
+    },
+    {
+      "id": 38495,
+      "rank": 794,
+      "symbol": "MIRA",
+      "name": "Mira",
+      "slug": "mira-network",
+      "logo": "img/coins/38495.png"
+    },
+    {
+      "id": 38127,
+      "rank": 488,
+      "symbol": "AKE",
+      "name": "AKEDO",
+      "slug": "akedo",
+      "logo": "img/coins/38127.png"
+    },
+    {
+      "id": 32809,
+      "rank": 817,
+      "symbol": "ORDER",
+      "name": "Orderly",
+      "slug": "orderly-network",
+      "logo": "img/coins/32809.png"
+    },
+    {
+      "id": 38506,
+      "rank": 911,
+      "symbol": "LIGHT",
+      "name": "Bitlight",
+      "slug": "bitlight",
+      "logo": "img/coins/38506.png"
+    },
+    {
+      "id": 38481,
+      "rank": 595,
+      "symbol": "XAN",
+      "name": "Anoma",
+      "slug": "anoma",
+      "logo": "img/coins/38481.png"
+    },
+    {
+      "id": 38482,
+      "rank": 90,
+      "symbol": "FF",
+      "name": "Falcon Finance",
+      "slug": "falcon-finance-ff",
+      "logo": "img/coins/38482.png"
+    },
+    {
+      "id": 38513,
+      "rank": 636,
+      "symbol": "EDEN",
+      "name": "OpenEden",
+      "slug": "openeden",
+      "logo": "img/coins/38513.png"
+    },
+    {
+      "id": 38464,
+      "rank": 1268,
+      "symbol": "NOM",
+      "name": "Nomina",
+      "slug": "nomina",
+      "logo": "img/coins/38464.png"
+    },
+    {
+      "id": 38178,
+      "rank": 421,
+      "symbol": "TRUTH",
+      "name": "Swarm Network",
+      "slug": "swarm-network-ai",
+      "logo": "img/coins/38178.png"
+    },
+    {
+      "id": 38515,
+      "rank": 297,
+      "symbol": "2Z",
+      "name": "DoubleZero",
+      "slug": "doublezero",
+      "logo": "img/coins/38515.png"
+    },
+    {
+      "id": 38376,
+      "rank": 379,
+      "symbol": "EVAA",
+      "name": "EVAA Protocol",
+      "slug": "evaa-protocol",
+      "logo": "img/coins/38376.png"
+    },
+    {
+      "id": 38561,
+      "rank": 1187,
+      "symbol": "LYN",
+      "name": "Everlyn AI",
+      "slug": "everlyn",
+      "logo": "img/coins/38561.png"
+    },
+    {
+      "id": 38554,
+      "rank": 560,
+      "symbol": "KGEN",
+      "name": "KGeN",
+      "slug": "kgen",
+      "logo": "img/coins/38554.png"
+    },
+    {
+      "id": 38470,
+      "rank": 585,
+      "symbol": "GIGGLE",
+      "name": "Giggle Fund",
+      "slug": "giggle-fund",
+      "logo": "img/coins/38470.png"
+    },
+    {
+      "id": 30495,
+      "rank": 103,
+      "symbol": "MON",
+      "name": "Monad",
+      "slug": "monad",
+      "logo": "img/coins/30495.png"
+    },
+    {
+      "id": 38651,
+      "rank": 714,
+      "symbol": "YB",
+      "name": "YieldBasis",
+      "slug": "yieldbasis",
+      "logo": "img/coins/38651.png"
+    },
+    {
+      "id": 38353,
+      "rank": 156,
+      "symbol": "MET",
+      "name": "Meteora",
+      "slug": "meteora",
+      "logo": "img/coins/38353.png"
+    },
+    {
+      "id": 14280,
+      "rank": 609,
+      "symbol": "EUL",
+      "name": "Euler",
+      "slug": "euler-finance",
+      "logo": "img/coins/14280.png"
+    },
+    {
+      "id": 38668,
+      "rank": 976,
+      "symbol": "ENSO",
+      "name": "Enso",
+      "slug": "enso",
+      "logo": "img/coins/38668.png"
+    },
+    {
+      "id": 38634,
+      "rank": 940,
+      "symbol": "CLO",
+      "name": "Yei Finance",
+      "slug": "clovis",
+      "logo": "img/coins/38634.png"
+    },
+    {
+      "id": 38669,
+      "rank": 1053,
+      "symbol": "RECALL",
+      "name": "Recall",
+      "slug": "recall-network",
+      "logo": "img/coins/38669.png"
+    },
+    {
+      "id": 38427,
+      "rank": 665,
+      "symbol": "ZBT",
+      "name": "ZEROBASE",
+      "slug": "zerobase",
+      "logo": "img/coins/38427.png"
+    },
+    {
+      "id": 33223,
+      "rank": 485,
+      "symbol": "LAB",
+      "name": "LAB",
+      "slug": "lab",
+      "logo": "img/coins/33223.png"
+    },
+    {
+      "id": 38417,
+      "rank": 597,
+      "symbol": "RIVER",
+      "name": "River",
+      "slug": "river",
+      "logo": "img/coins/38417.png"
+    },
+    {
+      "id": 38717,
+      "rank": 1008,
+      "symbol": "BLUAI",
+      "name": "Bluwhale",
+      "slug": "bluwhale",
+      "logo": "img/coins/38717.png"
+    },
+    {
+      "id": 38671,
+      "rank": 1173,
+      "symbol": "TURTLE",
+      "name": "Turtle",
+      "slug": "turtle-xyz",
+      "logo": "img/coins/38671.png"
+    },
+    {
+      "id": 38569,
+      "rank": 791,
+      "symbol": "APR",
+      "name": "Capricorn",
+      "slug": "apriori",
+      "logo": "img/coins/38569.png"
+    },
+    {
+      "id": 38750,
+      "rank": 625,
+      "symbol": "ON",
+      "name": "Orochi Network",
+      "slug": "orochi-network",
+      "logo": "img/coins/38750.png"
+    },
+    {
+      "id": 38828,
+      "rank": 86,
+      "symbol": "KITE",
+      "name": "Kite",
+      "slug": "kite",
+      "logo": "img/coins/38828.png"
+    },
+    {
+      "id": 38757,
+      "rank": 653,
+      "symbol": "AT",
+      "name": "APRO",
+      "slug": "apro",
+      "logo": "img/coins/38757.png"
+    },
+    {
+      "id": 37263,
+      "rank": 22,
+      "symbol": "CC",
+      "name": "Canton",
+      "slug": "canton-network",
+      "logo": "img/coins/37263.png"
+    },
+    {
+      "id": 38231,
+      "rank": 447,
+      "symbol": "MMT",
+      "name": "Momentum",
+      "slug": "momentum-token",
+      "logo": "img/coins/38231.png"
+    },
+    {
+      "id": 38863,
+      "rank": 906,
+      "symbol": "TRUST",
+      "name": "Intuition",
+      "slug": "intuition",
+      "logo": "img/coins/38863.png"
+    },
+    {
+      "id": 38841,
+      "rank": 860,
+      "symbol": "UAI",
+      "name": "UnifAI Network",
+      "slug": "unifai-network",
+      "logo": "img/coins/38841.png"
+    },
+    {
+      "id": 38864,
+      "rank": 343,
+      "symbol": "FOLKS",
+      "name": "Folks Finance",
+      "slug": "folks-finance",
+      "logo": "img/coins/38864.png"
+    },
+    {
+      "id": 38892,
+      "rank": 79,
+      "symbol": "STABLE",
+      "name": "Stable",
+      "slug": "stable",
+      "logo": "img/coins/38892.png"
+    },
+    {
+      "id": 38909,
+      "rank": 643,
+      "symbol": "JCT",
+      "name": "Janction",
+      "slug": "janction",
+      "logo": "img/coins/38909.png"
+    },
+    {
+      "id": 38908,
+      "rank": 538,
+      "symbol": "ALLO",
+      "name": "Allora",
+      "slug": "allora",
+      "logo": "img/coins/38908.png"
+    },
+    {
+      "id": 34285,
+      "rank": 842,
+      "symbol": "CLANKER",
+      "name": "tokenbot",
+      "slug": "tokenbot-2",
+      "logo": "img/coins/34285.png"
+    },
+    {
+      "id": 38837,
+      "rank": 551,
+      "symbol": "BEAT",
+      "name": "Audiera",
+      "slug": "audiera",
+      "logo": "img/coins/38837.png"
+    },
+    {
+      "id": 38849,
+      "rank": 52,
+      "symbol": "PIEVERSE",
+      "name": "Pieverse",
+      "slug": "pieverse",
+      "logo": "img/coins/38849.png"
+    },
+    {
+      "id": 38868,
+      "rank": 123,
+      "symbol": "SENT",
+      "name": "Sentient",
+      "slug": "sentient",
+      "logo": "img/coins/38868.png"
+    },
+    {
+      "id": 38978,
+      "rank": 376,
+      "symbol": "IRYS",
+      "name": "Irys",
+      "slug": "irys",
+      "logo": "img/coins/38978.png"
+    },
+    {
+      "id": 39042,
+      "rank": 809,
+      "symbol": "POWER",
+      "name": "Power Protocol",
+      "slug": "powerprotocol",
+      "logo": "img/coins/39042.png"
+    },
+    {
+      "id": 39049,
+      "rank": 1044,
+      "symbol": "WET",
+      "name": "Humidifi",
+      "slug": "humidifi",
+      "logo": "img/coins/39049.png"
+    },
+    {
+      "id": 39064,
+      "rank": 59,
+      "symbol": "NIGHT",
+      "name": "Midnight",
+      "slug": "midnight-network",
+      "logo": "img/coins/39064.png"
+    },
+    {
+      "id": 38869,
+      "rank": 886,
+      "symbol": "US",
+      "name": "Talus",
+      "slug": "talus-network",
+      "logo": "img/coins/38869.png"
+    },
+    {
+      "id": 39071,
+      "rank": 979,
+      "symbol": "CYS",
+      "name": "Cysic",
+      "slug": "cysic",
+      "logo": "img/coins/39071.png"
+    },
+    {
+      "id": 38967,
+      "rank": 448,
+      "symbol": "RAVE",
+      "name": "RaveDAO",
+      "slug": "ravedao",
+      "logo": "img/coins/38967.png"
+    },
+    {
+      "id": 39035,
+      "rank": 921,
+      "symbol": "ZKP",
+      "name": "zkPass",
+      "slug": "zkpass",
+      "logo": "img/coins/39035.png"
+    },
+    {
+      "id": 38984,
+      "rank": 1214,
+      "symbol": "GUA",
+      "name": "SUPERFORTUNE",
+      "slug": "superfortune",
+      "logo": "img/coins/38984.png"
+    },
+    {
+      "id": 39125,
+      "rank": 70,
+      "symbol": "LIT",
+      "name": "Lighter",
+      "slug": "lighter",
+      "logo": "img/coins/39125.png"
+    },
+    {
+      "id": 39159,
+      "rank": 727,
+      "symbol": "BREV",
+      "name": "Brevis",
+      "slug": "brevis",
+      "logo": "img/coins/39159.png"
+    },
+    {
+      "id": 39170,
+      "rank": 418,
+      "symbol": "COLLECT",
+      "name": "Collect on Fanable",
+      "slug": "collect-on-fanable",
+      "logo": "img/coins/39170.png"
+    },
+    {
+      "id": 39121,
+      "rank": 271,
+      "symbol": "MAGMA",
+      "name": "Magma Finance",
+      "slug": "magma-finance",
+      "logo": "img/coins/39121.png"
+    },
+    {
+      "id": 39332,
+      "rank": 138,
+      "symbol": "ZAMA",
+      "name": "Zama",
+      "slug": "zama",
+      "logo": "img/coins/39332.png"
+    },
+    {
+      "id": 38356,
+      "rank": 947,
+      "symbol": "FOGO",
+      "name": "Fogo",
+      "slug": "fogo",
+      "logo": "img/coins/38356.png"
+    },
+    {
+      "id": 6952,
+      "rank": 222,
+      "symbol": "FRAX",
+      "name": "Legacy Frax Dollar",
+      "slug": "frax",
+      "logo": "img/coins/6952.png"
+    },
+    {
+      "id": 38430,
+      "rank": 786,
+      "symbol": "AIA",
+      "name": "DeAgentAI",
+      "slug": "deagentai",
+      "logo": "img/coins/38430.png"
+    },
+    {
+      "id": 36492,
+      "rank": 327,
+      "symbol": "ACU",
+      "name": "Acurast",
+      "slug": "acurast",
+      "logo": "img/coins/36492.png"
+    },
+    {
+      "id": 39387,
+      "rank": 482,
+      "symbol": "ELSA",
+      "name": "HeyElsa",
+      "slug": "heyelsa",
+      "logo": "img/coins/39387.png"
+    },
+    {
+      "id": 39377,
+      "rank": 334,
+      "symbol": "SKR",
+      "name": "Seeker",
+      "slug": "solana-mobile-seeker",
+      "logo": "img/coins/39377.png"
+    },
+    {
+      "id": 38136,
+      "rank": 445,
+      "symbol": "SPACE",
+      "name": "Spacecoin",
+      "slug": "spacecoin-org",
+      "logo": "img/coins/38136.png"
+    },
+    {
+      "id": 38963,
+      "rank": 866,
+      "symbol": "FIGHT",
+      "name": "FIGHT",
+      "slug": "fight-id",
+      "logo": "img/coins/38963.png"
+    },
+    {
+      "id": 19765,
+      "rank": 686,
+      "symbol": "BIRB",
+      "name": "Moonbirds",
+      "slug": "moonbirds",
+      "logo": "img/coins/19765.png"
+    },
+    {
+      "id": 39379,
+      "rank": 649,
+      "symbol": "GWEI",
+      "name": "ETHGas",
+      "slug": "eth-gas",
+      "logo": "img/coins/39379.png"
+    },
+    {
+      "id": 38770,
+      "rank": 350,
+      "symbol": "MEGA",
+      "name": "MegaETH",
+      "slug": "megaeth",
+      "logo": "img/coins/38770.png"
+    },
+    {
+      "id": 39461,
+      "rank": 920,
+      "symbol": "INX",
+      "name": "Infinex",
+      "slug": "infinex",
+      "logo": "img/coins/39461.png"
+    },
+    {
+      "id": 39382,
+      "rank": 1076,
+      "symbol": "TRIA",
+      "name": "Tria",
+      "slug": "tria",
+      "logo": "img/coins/39382.png"
+    },
+    {
+      "id": 39548,
+      "rank": 402,
+      "symbol": "ESP",
+      "name": "Espresso",
+      "slug": "espresso",
+      "logo": "img/coins/39548.png"
+    },
+    {
+      "id": 39521,
+      "rank": 521,
+      "symbol": "AZTEC",
+      "name": "Aztec",
+      "slug": "aztec",
+      "logo": "img/coins/39521.png"
+    },
+    {
+      "id": 39564,
+      "rank": 1078,
+      "symbol": "OPN",
+      "name": "Opinion",
+      "slug": "opinion",
+      "logo": "img/coins/39564.png"
+    },
+    {
+      "id": 39595,
+      "rank": 1004,
+      "symbol": "ROBO",
+      "name": "Fabric Protocol",
+      "slug": "fabric-foundation",
+      "logo": "img/coins/39595.png"
+    },
+    {
+      "id": 38769,
+      "rank": 832,
+      "symbol": "KAT",
+      "name": "Katana",
+      "slug": "katana-network",
+      "logo": "img/coins/38769.png"
+    },
+    {
+      "id": 39611,
+      "rank": 694,
+      "symbol": "MANTRA",
+      "name": "MANTRA",
+      "slug": "mantra-new",
+      "logo": "img/coins/39611.png"
+    },
+    {
+      "id": 6748,
+      "rank": 394,
+      "symbol": "CFG",
+      "name": "Centrifuge",
+      "slug": "centrifuge",
+      "logo": "img/coins/6748.png"
+    },
+    {
+      "id": 39720,
+      "rank": 171,
+      "symbol": "EDGE",
+      "name": "edgeX",
+      "slug": "edgex",
+      "logo": "img/coins/39720.png"
+    },
+    {
+      "id": 38889,
+      "rank": 614,
+      "symbol": "BSB",
+      "name": "Block Street",
+      "slug": "block-street",
+      "logo": "img/coins/38889.png"
+    },
+    {
+      "id": 5176,
+      "rank": 28,
+      "symbol": "XAUT",
+      "name": "Tether Gold",
+      "slug": "tether-gold",
+      "logo": "img/coins/5176.png"
+    },
+    {
+      "id": 39812,
+      "rank": 898,
+      "symbol": "BASED",
+      "name": "Based",
+      "slug": "basedone",
+      "logo": "img/coins/39812.png"
+    },
+    {
+      "id": 39797,
+      "rank": 785,
+      "symbol": "PRL",
+      "name": "Perle",
+      "slug": "perle",
+      "logo": "img/coins/39797.png"
+    },
+    {
+      "id": 39841,
+      "rank": 170,
+      "symbol": "GENIUS",
+      "name": "Genius Terminal",
+      "slug": "genius-terminal",
+      "logo": "img/coins/39841.png"
+    },
+    {
+      "id": 39870,
+      "rank": 309,
+      "symbol": "CHIP",
+      "name": "USD.AI",
+      "slug": "usd-ai",
+      "logo": "img/coins/39870.png"
+    },
+    {
+      "id": 39800,
+      "rank": 342,
+      "symbol": "OPG",
+      "name": "OpenGradient",
+      "slug": "opengradient",
+      "logo": "img/coins/39800.png"
+    },
+    {
+      "id": 39545,
+      "rank": 863,
+      "symbol": "BILL",
+      "name": "Billions Network",
+      "slug": "billions-network",
+      "logo": "img/coins/39545.png"
+    },
+    {
+      "id": 37743,
+      "rank": 1109,
+      "symbol": "STAR",
+      "name": "Starpower",
+      "slug": "starpower",
+      "logo": "img/coins/37743.png"
+    },
+    {
+      "id": 39916,
+      "rank": 518,
+      "symbol": "CTR",
+      "name": "Citrea",
+      "slug": "citrea",
+      "logo": "img/coins/39916.png"
+    },
+    {
+      "id": 40047,
+      "rank": 901,
+      "symbol": "SLX",
+      "name": "Solstice",
+      "slug": "solstice",
+      "logo": "img/coins/40047.png"
+    },
+    {
+      "id": 40008,
+      "rank": 681,
+      "symbol": "ZEST",
+      "name": "Zest Protocol",
+      "slug": "zest-protocol",
+      "logo": "img/coins/40008.png"
+    },
+    {
+      "id": 39158,
+      "rank": 201,
+      "symbol": "BTW",
+      "name": "Bitway",
+      "slug": "bitway-btw",
+      "logo": "img/coins/39158.png"
+    },
+    {
+      "id": 40224,
+      "rank": 423,
+      "symbol": "RE",
+      "name": "Re",
+      "slug": "re-protocol",
+      "logo": "img/coins/40224.png"
+    },
+    {
+      "id": 39970,
+      "rank": 428,
+      "symbol": "ARX",
+      "name": "Arcium",
+      "slug": "arcium",
+      "logo": "img/coins/39970.png"
+    },
+    {
+      "id": 40092,
+      "rank": 139,
+      "symbol": "O",
+      "name": "o1.exchange",
+      "slug": "o1-exchange",
+      "logo": "img/coins/40092.png"
+    },
+    {
+      "id": 40531,
+      "rank": 134,
+      "symbol": "CAP",
+      "name": "Cap",
+      "slug": "cap-app",
+      "logo": "img/coins/40531.png"
+    },
+    {
+      "id": 11419,
+      "rank": 26,
+      "symbol": "GRAM",
+      "name": "Gram (prev. Toncoin)",
+      "slug": "gram",
+      "logo": "img/coins/11419.png"
+    },
+    {
+      "id": 40814,
+      "rank": 698,
+      "symbol": "GRVT",
+      "name": "Grvt",
+      "slug": "grvt",
+      "logo": "img/coins/40814.png"
+    },
+    {
+      "id": 40980,
+      "rank": 701,
+      "symbol": "DOS",
+      "name": "DAPPOS",
+      "slug": "dappos",
+      "logo": "img/coins/40980.png"
+    },
+    {
+      "id": 40944,
+      "rank": 461,
+      "symbol": "MARSCOIN",
+      "name": "MarsCoin",
+      "slug": "marscoin-meme-bsc",
+      "logo": "img/coins/40944.png"
+    },
+    {
+      "id": 40938,
+      "rank": 187,
+      "symbol": "PONS",
+      "name": "Pons",
+      "slug": "pons",
+      "logo": "img/coins/40938.png"
+    },
+    {
+      "id": 42253,
+      "rank": 508,
+      "symbol": "CT",
+      "name": "Concrete",
+      "slug": "concrete",
+      "logo": "img/coins/42253.png"
+    },
+    {
+      "id": 42642,
+      "rank": 230,
+      "symbol": "PREDICT",
+      "name": "Predict.fun",
+      "slug": "predict-fun",
+      "logo": "img/coins/42642.png"
+    },
+    {
+      "id": 3897,
+      "rank": 37,
+      "symbol": "OKB",
+      "name": "OKB",
+      "slug": "okb",
+      "logo": "img/coins/3897.png"
+    },
+    {
+      "id": 40872,
+      "rank": 1160,
+      "symbol": "AEON",
+      "name": "AEON",
+      "slug": "aeon-xyz",
+      "logo": "img/coins/40872.png"
+    },
+    {
+      "id": 39883,
+      "rank": 608,
+      "symbol": "AI",
+      "name": "Gensyn",
+      "slug": "gensyn",
+      "logo": "img/coins/39883.png"
+    },
+    {
+      "id": 42525,
+      "rank": 731,
+      "symbol": "AXIS",
+      "name": "Axis Robotics",
+      "slug": "axis-robotics",
+      "logo": "img/coins/42525.png"
+    },
+    {
+      "id": 39666,
+      "rank": 903,
+      "symbol": "BLEND",
+      "name": "Fluent",
+      "slug": "fluent",
+      "logo": "img/coins/39666.png"
+    },
+    {
+      "id": 40809,
+      "rank": 351,
+      "symbol": "CASHCAT",
+      "name": "Cash Cat",
+      "slug": "cash-cat",
+      "logo": "img/coins/40809.png"
+    },
+    {
+      "id": 42011,
+      "rank": 1091,
+      "symbol": "CNPY",
+      "name": "Canopy",
+      "slug": "canopy",
+      "logo": "img/coins/42011.png"
+    },
+    {
+      "id": 23254,
+      "rank": 719,
+      "symbol": "CORE",
+      "name": "Core",
+      "slug": "core-dao",
+      "logo": "img/coins/23254.png"
+    },
+    {
+      "id": 41874,
+      "rank": 965,
+      "symbol": "CP",
+      "name": "Cluster Protocol",
+      "slug": "cluster-protocol",
+      "logo": "img/coins/41874.png"
+    },
+    {
+      "id": 3635,
+      "rank": 35,
+      "symbol": "CRO",
+      "name": "Cronos",
+      "slug": "cronos",
+      "logo": "img/coins/3635.png"
+    },
+    {
+      "id": 41912,
+      "rank": 238,
+      "symbol": "DGAI",
+      "name": "DGrid AI",
+      "slug": "dgrid-ai",
+      "logo": "img/coins/41912.png"
+    },
+    {
+      "id": 42524,
+      "rank": 738,
+      "symbol": "DNA",
+      "name": "NeoSoul",
+      "slug": "neosoul",
+      "logo": "img/coins/42524.png"
+    },
+    {
+      "id": 35626,
+      "rank": 459,
+      "symbol": "DATA",
+      "name": "Data Network",
+      "slug": "data-network",
+      "logo": "img/coins/35626.png"
+    },
+    {
+      "id": 41773,
+      "rank": 479,
+      "symbol": "KII",
+      "name": "KiiChain",
+      "slug": "kiichain",
+      "logo": "img/coins/41773.png"
+    },
+    {
+      "id": 30140,
+      "rank": 262,
+      "symbol": "NES",
+      "name": "Nesa",
+      "slug": "nesa",
+      "logo": "img/coins/30140.png"
+    },
+    {
+      "id": 39851,
+      "rank": 1679,
+      "symbol": "OFC",
+      "name": "OneFootball Credits",
+      "slug": "onefootball-credits",
+      "logo": "img/coins/39851.png"
+    },
+    {
+      "id": 34034,
+      "rank": 1523,
+      "symbol": "OL",
+      "name": "Open Loot",
+      "slug": "open-loot",
+      "logo": "img/coins/34034.png"
+    },
+    {
+      "id": 35697,
+      "rank": 73,
+      "symbol": "PI",
+      "name": "Pi",
+      "slug": "pi",
+      "logo": "img/coins/35697.png"
+    },
+    {
+      "id": 39682,
+      "rank": 259,
+      "symbol": "PROS",
+      "name": "Pharos",
+      "slug": "pharos",
+      "logo": "img/coins/39682.png"
+    },
+    {
+      "id": 38701,
+      "rank": 1450,
+      "symbol": "RLS",
+      "name": "Rayls",
+      "slug": "rayls",
+      "logo": "img/coins/38701.png"
+    },
+    {
+      "id": 39665,
+      "rank": 434,
+      "symbol": "UP",
+      "name": "Unitas",
+      "slug": "unitas",
+      "logo": "img/coins/39665.png"
+    },
+    {
+      "id": 40953,
+      "rank": 691,
+      "symbol": "XDP",
+      "name": "Doppler Finance",
+      "slug": "doppler-finance",
+      "logo": "img/coins/40953.png"
+    },
+    {
+      "id": 39965,
+      "rank": 419,
+      "symbol": "NEX",
+      "name": "Nexus",
+      "slug": "nexus-labs",
+      "logo": "img/coins/39965.png"
+    },
+    {
+      "id": 16086,
+      "rank": 96,
+      "symbol": "BTT",
+      "name": "BitTorrent [New]",
+      "slug": "bittorrent-new",
+      "logo": "img/coins/16086.png"
+    },
+    {
+      "id": 9104,
+      "rank": 163,
+      "symbol": "AIOZ",
+      "name": "AIOZ Network",
+      "slug": "aioz-network",
+      "logo": "img/coins/9104.png"
+    },
+    {
+      "id": 19843,
+      "rank": 606,
+      "symbol": "APEX",
+      "name": "ApeX Protocol",
+      "slug": "apex-token",
+      "logo": "img/coins/19843.png"
+    },
+    {
+      "id": 35690,
+      "rank": 580,
+      "symbol": "B3",
+      "name": "B3 (Base)",
+      "slug": "b3",
+      "logo": "img/coins/35690.png"
+    },
+    {
+      "id": 14556,
+      "rank": 1015,
+      "symbol": "BOBA",
+      "name": "Boba Network",
+      "slug": "boba-network",
+      "logo": "img/coins/14556.png"
+    },
+    {
+      "id": 35749,
+      "rank": 744,
+      "symbol": "BROCCOLI",
+      "name": "CZ's Dog",
+      "slug": "broccoli-714",
+      "logo": "img/coins/35749.png"
+    },
+    {
+      "id": 5198,
+      "rank": 393,
+      "symbol": "CTC",
+      "name": "Creditcoin",
+      "slug": "creditcoin",
+      "logo": "img/coins/5198.png"
+    },
+    {
+      "id": 31528,
+      "rank": 474,
+      "symbol": "DBR",
+      "name": "deBridge",
+      "slug": "debridge",
+      "logo": "img/coins/31528.png"
+    },
+    {
+      "id": 35014,
+      "rank": 218,
+      "symbol": "DRV",
+      "name": "Derive",
+      "slug": "derive",
+      "logo": "img/coins/35014.png"
+    },
+    {
+      "id": 7950,
+      "rank": 81,
+      "symbol": "FLR",
+      "name": "Flare",
+      "slug": "flare",
+      "logo": "img/coins/7950.png"
+    },
+    {
+      "id": 5665,
+      "rank": 360,
+      "symbol": "HNT",
+      "name": "Helium",
+      "slug": "helium",
+      "logo": "img/coins/5665.png"
+    },
+    {
+      "id": 1934,
+      "rank": 904,
+      "symbol": "LRC",
+      "name": "Loopring",
+      "slug": "loopring",
+      "logo": "img/coins/1934.png"
+    },
+    {
+      "id": 27075,
+      "rank": 48,
+      "symbol": "MNT",
+      "name": "Mantle",
+      "slug": "mantle",
+      "logo": "img/coins/27075.png"
+    },
+    {
+      "id": 14588,
+      "rank": 312,
+      "symbol": "PEAQ",
+      "name": "peaq",
+      "slug": "peaq",
+      "logo": "img/coins/14588.png"
+    },
+    {
+      "id": 32325,
+      "rank": 778,
+      "symbol": "PUFFER",
+      "name": "Puffer",
+      "slug": "puffer",
+      "logo": "img/coins/32325.png"
+    },
+    {
+      "id": 34387,
+      "rank": 25,
+      "symbol": "RLUSD",
+      "name": "Ripple USD",
+      "slug": "ripple-usd",
+      "logo": "img/coins/34387.png"
+    },
+    {
+      "id": 1759,
+      "rank": 468,
+      "symbol": "SNT",
+      "name": "Status",
+      "slug": "status",
+      "logo": "img/coins/1759.png"
+    },
+    {
+      "id": 35818,
+      "rank": 246,
+      "symbol": "SOSO",
+      "name": "SoSoValue",
+      "slug": "sosovalue",
+      "logo": "img/coins/35818.png"
+    },
+    {
+      "id": 42022,
+      "rank": 516,
+      "symbol": "STONK",
+      "name": "STONK (stonkfun.xyz)",
+      "slug": "stonk-fun",
+      "logo": "img/coins/42022.png"
+    },
+    {
+      "id": 36148,
+      "rank": 29,
+      "symbol": "USD1",
+      "name": "World Liberty Financial USD",
+      "slug": "usd1",
+      "logo": "img/coins/36148.png"
+    },
+    {
+      "id": 29470,
+      "rank": 16,
+      "symbol": "USDE",
+      "name": "Ethena USDe",
+      "slug": "ethena-usde",
+      "logo": "img/coins/29470.png"
+    },
+    {
+      "id": 7127,
+      "rank": 348,
+      "symbol": "VELO",
+      "name": "Velo",
+      "slug": "velo",
+      "logo": "img/coins/7127.png"
+    },
+    {
+      "id": 1274,
+      "rank": 526,
+      "symbol": "WAVES",
+      "name": "Waves",
+      "slug": "waves",
+      "logo": "img/coins/1274.png"
+    },
+    {
+      "id": 18679,
+      "rank": 147,
+      "symbol": "XCN",
+      "name": "Onyxcoin",
+      "slug": "onyxcoin",
+      "logo": "img/coins/18679.png"
+    },
+    {
+      "id": 2634,
+      "rank": 75,
+      "symbol": "XDC",
+      "name": "XDC Network",
+      "slug": "xdc-network",
+      "logo": "img/coins/2634.png"
+    },
+    {
+      "id": 30636,
+      "rank": 125,
+      "symbol": "ZBCN",
+      "name": "Zebec Network",
+      "slug": "zebec-network",
+      "logo": "img/coins/30636.png"
+    },
+    {
+      "id": 34434,
+      "rank": 591,
+      "symbol": "REKT",
+      "name": "Rekt (rekt.com)",
+      "slug": "rekt-eth",
+      "logo": "img/coins/34434.png"
+    },
+    {
+      "id": 3987,
+      "rank": 217,
+      "symbol": "BDX",
+      "name": "Beldex",
+      "slug": "beldex",
+      "logo": "img/coins/3987.png"
+    },
+    {
+      "id": 39686,
+      "rank": 225,
+      "symbol": "BP",
+      "name": "Backpack",
+      "slug": "backpack-exchange",
+      "logo": "img/coins/39686.png"
+    },
+    {
+      "id": 29454,
+      "rank": 1206,
+      "symbol": "ESE",
+      "name": "Eesee",
+      "slug": "eesee",
+      "logo": "img/coins/29454.png"
+    },
+    {
+      "id": 39203,
+      "rank": 1398,
+      "symbol": "ESIM",
+      "name": "Depinsim",
+      "slug": "depinsim",
+      "logo": "img/coins/39203.png"
+    },
+    {
+      "id": 2087,
+      "rank": 61,
+      "symbol": "KCS",
+      "name": "KuCoin Token",
+      "slug": "kucoin-token",
+      "logo": "img/coins/2087.png"
+    },
+    {
+      "id": 27960,
+      "rank": 269,
+      "symbol": "NPC",
+      "name": "Non-Playable Coin",
+      "slug": "non-playable-coin",
+      "logo": "img/coins/27960.png"
+    },
+    {
+      "id": 3835,
+      "rank": 442,
+      "symbol": "ORBS",
+      "name": "Orbs",
+      "slug": "orbs",
+      "logo": "img/coins/3835.png"
+    },
+    {
+      "id": 39151,
+      "rank": 658,
+      "symbol": "PYBOBO",
+      "name": "Capybobo",
+      "slug": "capybobo",
+      "logo": "img/coins/39151.png"
+    },
+    {
+      "id": 34456,
+      "rank": 1892,
+      "symbol": "READY",
+      "name": "Ready Cards",
+      "slug": "ready",
+      "logo": "img/coins/34456.png"
+    },
+    {
+      "id": 33793,
+      "rank": 30,
+      "symbol": "USDG",
+      "name": "Global Dollar",
+      "slug": "global-dollar-usdg",
+      "logo": "img/coins/33793.png"
+    },
+    {
+      "id": 14822,
+      "rank": 462,
+      "symbol": "VR",
+      "name": "Victoria VR",
+      "slug": "victoria-vr",
+      "logo": "img/coins/14822.png"
+    },
+    {
+      "symbol": "XAU",
+      "name": "Gold",
+      "assetClass": "tradfi",
+      "category": "commodity"
+    },
+    {
+      "symbol": "XAG",
+      "name": "Silver",
+      "assetClass": "tradfi",
+      "category": "commodity"
+    },
+    {
+      "symbol": "TSLA",
+      "name": "Tesla Inc",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "XPT",
+      "name": "Platinum",
+      "assetClass": "tradfi",
+      "category": "commodity"
+    },
+    {
+      "symbol": "XPD",
+      "name": "Palladium",
+      "assetClass": "tradfi",
+      "category": "commodity"
+    },
+    {
+      "symbol": "INTC",
+      "name": "Intel",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "HOOD",
+      "name": "Robinhood Markets",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "MSTR",
+      "name": "Strategy",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "AMZN",
+      "name": "Amazon",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "CRCL",
+      "name": "Circle Internet Group Inc",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "COIN",
+      "name": "Coinbase Global",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "PLTR",
+      "name": "Palantir Technologies",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "COPPER",
+      "name": "Copper",
+      "assetClass": "tradfi",
+      "category": "commodity"
+    },
+    {
+      "symbol": "EWY",
+      "name": "iShares MSCI South Korea ETF",
+      "assetClass": "tradfi",
+      "category": "etf"
+    },
+    {
+      "symbol": "EWJ",
+      "name": "iShares MSCI Japan ETF",
+      "assetClass": "tradfi",
+      "category": "etf"
+    },
+    {
+      "symbol": "PAYP",
+      "name": "PayPay Corporation",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "META",
+      "name": "Meta Platforms",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "GOOGL",
+      "name": "Alphabet Class A",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "CL",
+      "name": "WTI Crude Oil",
+      "assetClass": "tradfi",
+      "category": "commodity"
+    },
+    {
+      "symbol": "BZ",
+      "name": "Brent Crude Oil",
+      "assetClass": "tradfi",
+      "category": "commodity"
+    },
+    {
+      "symbol": "NATGAS",
+      "name": "Natural Gas",
+      "assetClass": "tradfi",
+      "category": "commodity"
+    },
+    {
+      "symbol": "QQQ",
+      "name": "Invesco QQQ Trust",
+      "assetClass": "tradfi",
+      "category": "etf"
+    },
+    {
+      "symbol": "SPY",
+      "name": "SPDR S&P 500 ETF Trust",
+      "assetClass": "tradfi",
+      "category": "etf"
+    },
+    {
+      "symbol": "AAPL",
+      "name": "Apple",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "TSM",
+      "name": "Taiwan Semiconductor Manufacturing Co Ltd",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "MU",
+      "name": "Micron Technology",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "SNDK",
+      "name": "SanDisk Corporation",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "MSFT",
+      "name": "Microsoft",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "AVGO",
+      "name": "Broadcom Inc Derivatives",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "BABA",
+      "name": "Alibaba Group Holding Ltd",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "AMD",
+      "name": "Advanced Micro Devices",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "QCOM",
+      "name": "Qualcomm",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "USAR",
+      "name": "USA Rare Earth Inc",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "LITE",
+      "name": "Lumentum Holdings Inc",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "ORCL",
+      "name": "Oracle",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "DIS",
+      "name": "Walt Disney Co",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "UBER",
+      "name": "Uber Technologies Inc",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "CSCO",
+      "name": "Cisco Systems",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "HD",
+      "name": "Home Depot Inc",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "SOXL",
+      "name": "Direxion Daily Semiconductor Bull 3x ETF",
+      "assetClass": "tradfi",
+      "category": "etf"
+    },
+    {
+      "symbol": "MRVL",
+      "name": "Marvell Technology",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "CRWV",
+      "name": "CoreWeave Inc",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "WMT",
+      "name": "Walmart Inc",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "JPM",
+      "name": "JPMorgan Chase & Co",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "V",
+      "name": "Visa Inc",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "BRKB",
+      "name": "Berkshire Hathaway Class B",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "FLNC",
+      "name": "Fluence Energy Inc",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "DRAM",
+      "name": "Roundhill Memory ETF",
+      "assetClass": "tradfi",
+      "category": "etf"
+    },
+    {
+      "symbol": "RKLB",
+      "name": "Rocket Lab Corp",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "CBRS",
+      "name": "Cerebras Systems",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "SPCX",
+      "name": "SpaceX",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "OPENAI",
+      "name": "OpenAI",
+      "assetClass": "tradfi",
+      "category": "pre-ipo"
+    },
+    {
+      "symbol": "NBIS",
+      "name": "Nebius Group NV",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "WDC",
+      "name": "Western Digital Corp",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "ARM",
+      "name": "Arm Holdings Plc",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "BE",
+      "name": "Bloom Energy Corp",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "COHR",
+      "name": "Coherent",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "QNTX",
+      "name": "Quantinuum",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "LLY",
+      "name": "Eli Lilly And Co",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "NVO",
+      "name": "Novo Nordisk",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "BBX",
+      "name": "BlackBerry Ltd",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "NOK",
+      "name": "Nokia Oyj",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "EWT",
+      "name": "iShares MSCI Taiwan ETF",
+      "assetClass": "tradfi",
+      "category": "etf"
+    },
+    {
+      "symbol": "ASTS",
+      "name": "AST SpaceMobile",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "SKHYNIX",
+      "name": "Sk Hynix Inc",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "SAMSUNG",
+      "name": "Samsung Electronics Co Ltd",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "HYUNDAI",
+      "name": "Hyundai Motor",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "DELL",
+      "name": "Dell Technologies",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "IBM",
+      "name": "IBM",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "NOW",
+      "name": "ServiceNow",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "CRM",
+      "name": "Salesforce Inc",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "IREN",
+      "name": "IREN Ltd",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "ONDS",
+      "name": "Ondas Inc",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "BX",
+      "name": "Blackstone",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "HPE",
+      "name": "Hewlett Packard Enterprise Co",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "AMAT",
+      "name": "Applied Materials",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "CRWD",
+      "name": "CrowdStrike Holdings Inc",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "CRDO",
+      "name": "Credo Technology Group Holding Ltd",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "AAOI",
+      "name": "Applied Optoelectronics Inc",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "IWM",
+      "name": "iShares Russell 2000 ETF",
+      "assetClass": "tradfi",
+      "category": "etf"
+    },
+    {
+      "symbol": "AXTI",
+      "name": "AXT Inc",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "NFLX",
+      "name": "Netflix",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "COST",
+      "name": "Costco Wholesale Corp",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "URNM",
+      "name": "Sprott Uranium Miners ETF",
+      "assetClass": "tradfi",
+      "category": "etf"
+    },
+    {
+      "symbol": "HIMS",
+      "name": "Hims & Hers Health",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "EBAY",
+      "name": "Ebay",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "ZM",
+      "name": "Zoom Communications Inc",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "DKNG",
+      "name": "DraftKings Inc",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "RIVN",
+      "name": "Rivian Automotive Inc",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "GME",
+      "name": "GameStop Corp",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "XLE",
+      "name": "State Street Energy Select Sector SPDR ETF",
+      "assetClass": "tradfi",
+      "category": "etf"
+    },
+    {
+      "symbol": "EWZ",
+      "name": "Ishares Msci Brazil ETF",
+      "assetClass": "tradfi",
+      "category": "etf"
+    },
+    {
+      "symbol": "BMNR",
+      "name": "BitMine Immersion Technologies",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "UVXY",
+      "name": "ProShares Ultra VIX Short-Term Futures ETF",
+      "assetClass": "tradfi",
+      "category": "etf"
+    },
+    {
+      "symbol": "ADBE",
+      "name": "Adobe Inc",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "GLW",
+      "name": "Corning Inc",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "STXX",
+      "name": "Seagate Technology Holdings Plc",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "ASML",
+      "name": "ASML Holding NV",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "LRCX",
+      "name": "Lam Research Corp",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "KLAC",
+      "name": "KLA Corp",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "ALAB",
+      "name": "Astera Labs Inc",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "SMCI",
+      "name": "Super Micro Computer Inc",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "CIEN",
+      "name": "Ciena Corp",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "KORU",
+      "name": "Direxion Daily MSCI South Korea Bull 3x ETF",
+      "assetClass": "tradfi",
+      "category": "etf"
+    },
+    {
+      "symbol": "SONY",
+      "name": "Sony Group Corp",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "MVLL",
+      "name": "GraniteShares 2x Long MRVL Daily ETF",
+      "assetClass": "tradfi",
+      "category": "etf"
+    },
+    {
+      "symbol": "TQQQ",
+      "name": "ProShares UltraPro QQQ",
+      "assetClass": "tradfi",
+      "category": "etf"
+    },
+    {
+      "symbol": "SQQQ",
+      "name": "ProShares UltraPro Short QQQ",
+      "assetClass": "tradfi",
+      "category": "etf"
+    },
+    {
+      "symbol": "STRC",
+      "name": "Strategy Stretch Preferred Stock",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "CAT-STOCK",
+      "name": "Caterpillar",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "TXN",
+      "name": "Texas Instruments",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "FLEX",
+      "name": "Flex Ltd",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "TER",
+      "name": "Teradyne Inc",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "TTWO",
+      "name": "Take-Two Interactive Software Inc",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "KSTR",
+      "name": "KraneShares China T&S STR 50 Index ETF",
+      "assetClass": "tradfi",
+      "category": "etf"
+    },
+    {
+      "symbol": "BSP",
+      "name": "Bending Spoons SpA",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "BOT",
+      "name": "Robostrategy Inc",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "WEN",
+      "name": "Wendys Co",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "INTW",
+      "name": "GraniteShares 2x Long INTC Daily ETF",
+      "assetClass": "tradfi",
+      "category": "etf"
+    },
+    {
+      "symbol": "SNXX",
+      "name": "Tradr 2x Long SNDK Daily ETF",
+      "assetClass": "tradfi",
+      "category": "etf"
+    },
+    {
+      "symbol": "XBI",
+      "name": "State Street SPDR S&P Biotech ETF",
+      "assetClass": "tradfi",
+      "category": "etf"
+    },
+    {
+      "symbol": "BNC",
+      "name": "CEA Industries Inc",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "FWDI",
+      "name": "Forward Industries Inc",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "GEV",
+      "name": "GE Vernova Inc",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "VRT",
+      "name": "Vertiv Holdings Co",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "SNOW",
+      "name": "Snowflake Inc",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "APP",
+      "name": "AppLovin",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "SKHY",
+      "name": "Sk Hynix Inc Nasdaq",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "MUU",
+      "name": "Direxion Daily MU Bull 2x ETF",
+      "assetClass": "tradfi",
+      "category": "etf"
+    },
+    {
+      "symbol": "SOXS",
+      "name": "Direxion Daily Semiconductor Bear 3x ETF",
+      "assetClass": "tradfi",
+      "category": "etf"
+    },
+    {
+      "symbol": "TZA",
+      "name": "Direxion Daily Small Cap Bear 3x ETF",
+      "assetClass": "tradfi",
+      "category": "etf"
+    },
+    {
+      "symbol": "MINIMAX",
+      "name": "MiniMax Group Inc",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "ZHIPU",
+      "name": "Z.AI Co Ltd",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "HK0700",
+      "name": "Tencent Holdings (HKD)",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "HK1810",
+      "name": "Xiaomi (HKD)",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "TENCENT",
+      "name": "Tencent Holdings Ltd",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "SHAZ",
+      "name": "SharonAI Holdings Inc",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "SOFI",
+      "name": "SoFi Technologies",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "PANW",
+      "name": "Palo Alto Networks Inc",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "PENG",
+      "name": "Penguin Solutions Inc",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "POPMART",
+      "name": "Pop Mart International Group Limited",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "TMF",
+      "name": "Direxion Daily 20+ Year Treasury Bull 3x ETF",
+      "assetClass": "tradfi",
+      "category": "etf"
+    },
+    {
+      "symbol": "TBT",
+      "name": "ProShares UltraShort 20+ Year Treasury ETF",
+      "assetClass": "tradfi",
+      "category": "etf"
+    },
+    {
+      "symbol": "BITO",
+      "name": "ProShares Bitcoin ETF",
+      "assetClass": "tradfi",
+      "category": "etf"
+    },
+    {
+      "symbol": "PYPL",
+      "name": "PayPal Holdings Inc",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "GS",
+      "name": "Goldman Sachs",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "SMH",
+      "name": "VanEck Semiconductor ETF",
+      "assetClass": "tradfi",
+      "category": "etf"
+    },
+    {
+      "symbol": "GIGADEV",
+      "name": "GigaDevice Semiconductor Inc",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "KO",
+      "name": "Coca-Cola",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "RDDT",
+      "name": "Reddit",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "KUAISHOU",
+      "name": "Kuaishou Technology",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "MEITUAN",
+      "name": "Meituan",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "CSOPSKHYNIX2L",
+      "name": "Csop SKHYNIX Daily 2X ETF",
+      "assetClass": "tradfi",
+      "category": "etf"
+    },
+    {
+      "symbol": "CSOPSAMSUNG2L",
+      "name": "Csop SAMSUNG Electronics Daily 2X ETF",
+      "assetClass": "tradfi",
+      "category": "etf"
+    },
+    {
+      "symbol": "ZHONGJI",
+      "name": "ZhongJi Innolight Co Ltd",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "SAMSUNGEM",
+      "name": "Samsung Electro Mechanics Co Ltd",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "HANMI",
+      "name": "Hanmi Semiconductor Co Ltd",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "LGELECTRONICS",
+      "name": "LG Electronics Inc",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "NAVER",
+      "name": "Naver Corp",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "KODEX200",
+      "name": "Samsung KODEX 200 ETF",
+      "assetClass": "tradfi",
+      "category": "etf"
+    },
+    {
+      "symbol": "GDX",
+      "name": "VanEck Gold Miners ETF",
+      "assetClass": "tradfi",
+      "category": "etf"
+    },
+    {
+      "symbol": "NET",
+      "name": "Cloudflare Inc",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "VST",
+      "name": "Vistra Corp",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "SHOP",
+      "name": "Shopify",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "LYTE",
+      "name": "Roundhill Photonics Optics ETF",
+      "assetClass": "tradfi",
+      "category": "etf"
+    },
+    {
+      "symbol": "CXMT",
+      "name": "Changxin Memory Technologies",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "UNITREE",
+      "name": "Unitree",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "SKUU",
+      "name": "GraniteShares 2x Long SK Hynix Daily ETF",
+      "assetClass": "tradfi",
+      "category": "etf"
+    },
+    {
+      "symbol": "SKDD",
+      "name": "GraniteShares 2x Short SK Hynix Daily ETF",
+      "assetClass": "tradfi",
+      "category": "etf"
+    },
+    {
+      "symbol": "RAM",
+      "name": "Roundhill T REX 2X Long DRAM Daily Target ETF",
+      "assetClass": "tradfi",
+      "category": "etf"
+    },
+    {
+      "symbol": "DJT",
+      "name": "Trump Media Technology Group Corp",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "MRNA",
+      "name": "Moderna Inc",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "TEM",
+      "name": "Tempus AI Inc",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "MRK",
+      "name": "Merck Co Inc",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "IONQ",
+      "name": "IonQ Inc",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "MARA",
+      "name": "MARA Holdings Inc",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "PDD",
+      "name": "PDD Holdings Inc",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "HK0625",
+      "name": "",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "NVDL",
+      "name": "GraniteShares 2x Long NVDA Daily ETF",
+      "assetClass": "tradfi",
+      "category": "etf"
+    },
+    {
+      "symbol": "TSLL",
+      "name": "Direxion Daily TSLA Bull 2x ETF",
+      "assetClass": "tradfi",
+      "category": "etf"
+    },
+    {
+      "symbol": "DDOG",
+      "name": "Datadog Inc",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "TEAM",
+      "name": "Atlassian Corporation",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "MDB",
+      "name": "Mongodb Inc",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "ZS",
+      "name": "Zscaler Inc",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "GTLB",
+      "name": "GitLab Inc",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "GPRO",
+      "name": "GoPro Inc",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "BYD",
+      "name": "BYD Company Limited",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "HK0992",
+      "name": "Lenovo Group (HKD)",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "PATH",
+      "name": "UiPath Inc",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "AMC",
+      "name": "AMC Entertainment",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "CYPH",
+      "name": "Cypherpunk Technologies Inc",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "ANET",
+      "name": "Arista Networks",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "HUT",
+      "name": "Hut 8 Corp",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "APLD",
+      "name": "Applied Digital Corp",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "AGPU",
+      "name": "Axe Compute Inc",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "USDBRL",
+      "name": "US Dollar to Brazil Real",
+      "assetClass": "tradfi",
+      "category": "fx"
+    },
+    {
+      "symbol": "MOONSHOT",
+      "name": "Moonshot AI",
+      "assetClass": "tradfi",
+      "category": "pre-ipo"
+    },
+    {
+      "symbol": "OURA",
+      "name": "Oura",
+      "assetClass": "tradfi",
+      "category": "pre-ipo"
+    },
+    {
+      "symbol": "OKLO",
+      "name": "Oklo Inc",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "TWST",
+      "name": "Twist Bioscience Corporation",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "CVNA",
+      "name": "Carvana Co",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "RUM",
+      "name": "Rumble Inc",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "XOM",
+      "name": "Exxon",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "CRML",
+      "name": "Critical Metals Corp",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "BWET",
+      "name": "Breakwave Tanker Shipping ETF",
+      "assetClass": "tradfi",
+      "category": "etf"
+    },
+    {
+      "symbol": "ACN",
+      "name": "Accenture plc",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "MP",
+      "name": "MP Materials Corp",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "SECZ",
+      "name": "Securitize Corp",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "UNH",
+      "name": "UnitedHealth Group",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "NKE",
+      "name": "Nike Inc",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "USDEX",
+      "name": "StablecoinX Inc",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "VKTX",
+      "name": "Viking Therapeutics Inc",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "MCD",
+      "name": "McDonalds Corp",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "AKAM",
+      "name": "Akamai Technologies Inc",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "ZCSH",
+      "name": "Zcash ETF",
+      "assetClass": "tradfi",
+      "category": "etf"
+    },
+    {
+      "symbol": "MSTU",
+      "name": "T Rex 2X Long MSTR Daily Target ETF",
+      "assetClass": "tradfi",
+      "category": "etf"
+    },
+    {
+      "symbol": "SNPS",
+      "name": "Synopsys Inc",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "RDW",
+      "name": "Redwire Corp",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "CEG",
+      "name": "Constellation Energy",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "BAC",
+      "name": "Bank Of America",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "IBKR",
+      "name": "Interactive Brokers Group",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "MDT",
+      "name": "Medtronic PLC",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "EIDO",
+      "name": "iShares MSCI Indonesia ETF",
+      "assetClass": "tradfi",
+      "category": "etf"
+    },
+    {
+      "symbol": "EQT",
+      "name": "EQT Corporation",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "STM",
+      "name": "STMicroelectronics NV",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "ABBV",
+      "name": "AbbVie Inc",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "EWZS",
+      "name": "iShares MSCI Brazil SmallCap ETF",
+      "assetClass": "tradfi",
+      "category": "etf"
+    },
+    {
+      "symbol": "SMR",
+      "name": "NuScale Power Corporation",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "OXY",
+      "name": "Occidental Petroleum Corp",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "AMGN",
+      "name": "Amgen",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "PFE",
+      "name": "Pfizer Inc",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "MELI",
+      "name": "MercadoLibre Inc",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "NU",
+      "name": "Nu Holdings Ltd",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "FRHC",
+      "name": "Freedom Holding Corp",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "ANTHROPIC",
+      "name": "Anthropic",
+      "assetClass": "tradfi",
+      "category": "pre-ipo"
+    },
+    {
+      "symbol": "SOXX",
+      "name": "iShares Semiconductor ETF",
+      "assetClass": "tradfi",
+      "category": "etf"
+    },
+    {
+      "symbol": "IGV",
+      "name": "iShares Expanded Tech Software ETF",
+      "assetClass": "tradfi",
+      "category": "etf"
+    },
+    {
+      "symbol": "ARTY",
+      "name": "iShares Future AI Tech ETF",
+      "assetClass": "tradfi",
+      "category": "etf"
+    },
+    {
+      "symbol": "IBIT",
+      "name": "iShares Bitcoin Trust ETF",
+      "assetClass": "tradfi",
+      "category": "etf"
+    },
+    {
+      "symbol": "CCJ",
+      "name": "Cameco Corp",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "ETN",
+      "name": "Eaton Corporation",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "JNJ",
+      "name": "Johnson Johnson",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "AMDL",
+      "name": "GraniteShares 2x Long AMD Daily ETF",
+      "assetClass": "tradfi",
+      "category": "etf"
+    },
+    {
+      "symbol": "NIO",
+      "name": "Nio Inc",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "XIAOMI",
+      "name": "Xiaomi",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "HK1888",
+      "name": "",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "ADI",
+      "name": "Analog Devices",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "AEHR",
+      "name": "Aehr Test Systems",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "BIDU",
+      "name": "Baidu Inc",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "CGNX",
+      "name": "Cognex Corporation",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "FLY",
+      "name": "Firefly Aerospace Inc",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "GE",
+      "name": "GE Aerospace",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "GILD",
+      "name": "Gilead Sciences Inc",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "H100",
+      "name": "",
+      "assetClass": "tradfi",
+      "category": "commodity"
+    },
+    {
+      "symbol": "INFQ",
+      "name": "Infleqtion Inc",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "ISRG",
+      "name": "Intuitive Surgical Inc",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "JD",
+      "name": "JD Com Inc",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "JP225",
+      "name": "Nikkei 225",
+      "assetClass": "tradfi",
+      "category": "index"
+    },
+    {
+      "symbol": "KIOXIA",
+      "name": "Kioxia Holdings",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "KR200",
+      "name": "KOSPI 200",
+      "assetClass": "tradfi",
+      "category": "index"
+    },
+    {
+      "symbol": "KWEB",
+      "name": "",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "LUNR",
+      "name": "Intuitive Machines Inc",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "MPWR",
+      "name": "Monolithic Power Systems Inc",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "MURATA",
+      "name": "Murata Manufacturing Co",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "OKTA",
+      "name": "Okta Inc",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "ON-STOCK",
+      "name": "On Semiconductor Corp",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "OSCR",
+      "name": "Oscar Health Inc",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "OUST",
+      "name": "Ouster Inc",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "PEP",
+      "name": "PepsiCo",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "POET",
+      "name": "POET Technologies Inc",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "PURR",
+      "name": "Hyperliquid Strategies Inc",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "RIOT",
+      "name": "Riot Platforms Inc",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "ROK",
+      "name": "Rockwell Automation Inc",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "SHEIN",
+      "name": "Shein",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "SHLD",
+      "name": "Global X Defense Tech ETF",
+      "assetClass": "tradfi",
+      "category": "etf"
+    },
+    {
+      "symbol": "SIMO",
+      "name": "Silicon Motion Technology Corp",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "SOFTBANK",
+      "name": "SoftBank Group Corp",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "SPCH",
+      "name": "Leverage Shares 2X Long Spcx daily ETF",
+      "assetClass": "tradfi",
+      "category": "etf"
+    },
+    {
+      "symbol": "SSPC",
+      "name": "Leverage Shares 2x Short SPCX Daily ETF",
+      "assetClass": "tradfi",
+      "category": "etf"
+    },
+    {
+      "symbol": "TLT",
+      "name": "iShares 20 Year Treasury Bond ETF",
+      "assetClass": "tradfi",
+      "category": "etf"
+    },
+    {
+      "symbol": "TSEM",
+      "name": "Tower Semiconductor Ltd",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "TTMI",
+      "name": "TTM Technologies Inc",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "TWLO",
+      "name": "Twilio Inc",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "UMC",
+      "name": "United Microelectronics Corporation",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "US100",
+      "name": "Nasdaq 100",
+      "assetClass": "tradfi",
+      "category": "index"
+    },
+    {
+      "symbol": "US500",
+      "name": "S&P 500",
+      "assetClass": "tradfi",
+      "category": "index"
+    },
+    {
+      "symbol": "USO",
+      "name": "United States Oil Fund",
+      "assetClass": "tradfi",
+      "category": "etf"
+    },
+    {
+      "symbol": "VICR",
+      "name": "Vicor Corp",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "WUXIBIO",
+      "name": "WuXi Biologics",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "XLF",
+      "name": "State Street Financial Select Sector SPDR ETF",
+      "assetClass": "tradfi",
+      "category": "etf"
+    },
+    {
+      "symbol": "XLV",
+      "name": "State Street Health Care Select Sector SPDR ETF",
+      "assetClass": "tradfi",
+      "category": "etf"
+    },
+    {
+      "symbol": "AAL",
+      "name": "American Airlines Group",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "AMZU",
+      "name": "Direxion Daily AMZN Bull 2X ETF",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "ANDD",
+      "name": "Leverage Shares 2x Short Anthropic Daily ETF",
+      "assetClass": "tradfi",
+      "category": "etf"
+    },
+    {
+      "symbol": "ANTA",
+      "name": "Antalpha Platform Holding Co",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "ARKK",
+      "name": "ARK Innovation ETF",
+      "assetClass": "tradfi",
+      "category": "etf"
+    },
+    {
+      "symbol": "AXP",
+      "name": "American Express Co",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "BA",
+      "name": "Boeing Co",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "BIIB",
+      "name": "Biogen Inc",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "BKNG",
+      "name": "Booking Holdings Inc",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "BMNU",
+      "name": "TREX 2X Long BMNR Daily Target ETF",
+      "assetClass": "tradfi",
+      "category": "etf"
+    },
+    {
+      "symbol": "BTDR",
+      "name": "Bitdeer Technologies Group",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "CIFR",
+      "name": "Cipher Mining",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "CLSK",
+      "name": "Cleanspark Inc",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "CONL",
+      "name": "GraniteShares 2x Long COIN Daily ETF",
+      "assetClass": "tradfi",
+      "category": "etf"
+    },
+    {
+      "symbol": "CORZ",
+      "name": "Core Scientific Inc",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "C-STOCK",
+      "name": "Citigroup Inc",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "CVX-STOCK",
+      "name": "Chevron Corp",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "DUOL",
+      "name": "Duolingo Inc",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "EURUSD",
+      "name": "Euro / US Dollar",
+      "assetClass": "tradfi",
+      "category": "fx"
+    },
+    {
+      "symbol": "FISV",
+      "name": "Fiserv Inc",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "FN",
+      "name": "Fabrinet",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "FORM-STOCK",
+      "name": "FormFactor Inc",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "FUTU",
+      "name": "Futu Holdings",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "GBPUSD",
+      "name": "British Pound / US Dollar",
+      "assetClass": "tradfi",
+      "category": "fx"
+    },
+    {
+      "symbol": "GLXY",
+      "name": "Galaxy Digital Inc",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "GRAL",
+      "name": "GRAIL Inc",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "HORIZON",
+      "name": "Horizon Robotics",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "HUAHONG",
+      "name": "Hua Hong Grace Semiconductor Limited",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "INTU",
+      "name": "Intuit Inc",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "KR",
+      "name": "The Kroger Co",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "LAOPU",
+      "name": "Laopu",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "LENOVO",
+      "name": "Lenovo Group Limited",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "LI",
+      "name": "Li Auto Inc",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "LMT",
+      "name": "Lockheed Martin Corp",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "LULU",
+      "name": "Lululemon Athletica Inc",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "MAGS",
+      "name": "Roundhill Magnificent Seven ETF",
+      "assetClass": "tradfi",
+      "category": "etf"
+    },
+    {
+      "symbol": "MA",
+      "name": "Mastercard",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "MEITU",
+      "name": "Meitu Inc",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "MNST",
+      "name": "Monster Beverage Corporation",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "MO",
+      "name": "Altria Aroup Inc",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "MSFU",
+      "name": "Direxion Daily MSFT Bull 2X ETF",
+      "assetClass": "tradfi",
+      "category": "etf"
+    },
+    {
+      "symbol": "MXL",
+      "name": "Maxlinear Inc",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "NCLD",
+      "name": "Roundhill Neocloud ETF",
+      "assetClass": "tradfi",
+      "category": "etf"
+    },
+    {
+      "symbol": "NVD",
+      "name": "GraniteShares 2x Short NVDA Daily ETF",
+      "assetClass": "tradfi",
+      "category": "etf"
+    },
+    {
+      "symbol": "NXPI",
+      "name": "Nxp Semiconductors N V",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "PBR",
+      "name": "Petroleo Brasileiro",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "PG",
+      "name": "Procter Gamble Co",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "REGN",
+      "name": "Regeneron Pharmaceuticals Inc",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "SDGR",
+      "name": "Schrodinger Inc",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "SENSETIME",
+      "name": "SenseTime Group Inc",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "SMIC",
+      "name": "Semiconductor Manufacturing Intl Co",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "SMTC",
+      "name": "Semtech Corporation",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "SNDQ",
+      "name": "Tradr 2X Short SNDK Daily ETF",
+      "assetClass": "tradfi",
+      "category": "etf"
+    },
+    {
+      "symbol": "SPOT",
+      "name": "Spotify",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "SPXL",
+      "name": "Direxion Daily SP 500 Bull 3x ETF",
+      "assetClass": "tradfi",
+      "category": "etf"
+    },
+    {
+      "symbol": "TGT",
+      "name": "Target Corporation",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "TJX",
+      "name": "Tjx Companies Inc",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "TMO",
+      "name": "Thermo Fisher Scientific Inc",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "USDJPY",
+      "name": "US Dollars to Japanese Yen",
+      "assetClass": "tradfi",
+      "category": "fx"
+    },
+    {
+      "symbol": "VIST",
+      "name": "Vista Energy SAB de CV",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "VRTX",
+      "name": "Vertex Pharmaceuticals Incorporated",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "XLI",
+      "name": "State Street Industrial Select Sector SPDR ETF",
+      "assetClass": "tradfi",
+      "category": "etf"
+    },
+    {
+      "symbol": "XLK",
+      "name": "State Street Technology Select Sector SPDR ETF",
+      "assetClass": "tradfi",
+      "category": "etf"
+    },
+    {
+      "symbol": "XLP",
+      "name": "State Street Consumer Staples Select Sector SPDR ETF",
+      "assetClass": "tradfi",
+      "category": "etf"
+    },
+    {
+      "symbol": "XLU",
+      "name": "State Street Utilities Select Sector SPDR ETF",
+      "assetClass": "tradfi",
+      "category": "etf"
+    },
+    {
+      "symbol": "XP",
+      "name": "XP Inc",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "YOFC",
+      "name": "Yofc",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "YPF",
+      "name": "YPF Sociedad Anonima",
+      "assetClass": "tradfi",
+      "category": "stock"
+    },
+    {
+      "symbol": "SHEINHKD",
+      "name": "Shein (HKD)",
+      "assetClass": "tradfi",
+      "category": "stock"
+    }
+  ]
+}
